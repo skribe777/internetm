@@ -1,0 +1,1388 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Argentina-Telepin" tvg-logo="http://colsecornoticias.com.ar/images/Cooperativas/Pinamar-Telpin/canal_2.png" group-title="Argentina",Argentina-Telepin
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/17492
+#EXTINF:-1 tvg-id="AR - Volver" tvg-name="Argentina-Volver" tvg-logo="https://www.fulltv.com.ar/images/tv/volver-3023.png" group-title="Argentina",Argentina-Volver
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24330
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="Argentina: 13 Max Corrientes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina",Argentina: 13 Max Corrientes
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7752
+#EXTINF:-1 tvg-id="AR - América TV" tvg-name="Argentina: AMERICA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="Argentina",Argentina: AMERICA SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24557
+#EXTINF:-1 tvg-id="AR - América TV" tvg-name="Argentina: AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="Argentina",Argentina: AMERICA TV HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7505
+#EXTINF:-1 tvg-id="AR - Argentinísima Satelital" tvg-name="Argentina: Argentinisima Satelital" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="Argentina",Argentina: Argentinisima Satelital
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14968
+#EXTINF:-1 tvg-id="AR - C5N" tvg-name="Argentina: C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="Argentina",Argentina: C5N
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7148
+#EXTINF:-1 tvg-id="" tvg-name="Argentina: Canal 10 Mar del Plata" tvg-logo="http://1.bp.blogspot.com/_UM56cm9HfJE/TFIpkBLcA-I/AAAAAAAAAhE/JfiHWbw6-xs/w1200-h630-p-nu/canal+10+mdp.jpeg" group-title="Argentina",Argentina: Canal 10 Mar del Plata
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9270
+#EXTINF:-1 tvg-id="AR - 26 TV" tvg-name="Argentina: Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/100px-LogoCanal26.png" group-title="Argentina",Argentina: Canal 26
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14967
+#EXTINF:-1 tvg-id="canal3rosario.ar" tvg-name="Argentina: Canal 3 Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/1200px-Eltres_RGB-grad_%28positivo%29.png" group-title="Argentina",Argentina: Canal 3 Rosario
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10803
+#EXTINF:-1 tvg-id="" tvg-name="Argentina: Canal 4 Jujuy" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="Argentina",Argentina: Canal 4 Jujuy
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7162
+#EXTINF:-1 tvg-id="" tvg-name="Argentina: Canal 5 Rosario" tvg-logo="http://img1.wikia.nocookie.net/__cb20120227201435/logopedia/images/4/46/Canal5-rosario.png" group-title="Argentina",Argentina: Canal 5 Rosario
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10801
+#EXTINF:-1 tvg-id="" tvg-name="Argentina: Canal 9 Salta" tvg-logo="https://mosoly100.hu/sites/mosoly100.hu/files/abrak/9.png" group-title="Argentina",Argentina: Canal 9 Salta
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13340
+#EXTINF:-1 tvg-id="AR - 24/7 Canal de Noticias" tvg-name="Argentina: Canal de Noticias 24/7 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="Argentina",Argentina: Canal de Noticias 24/7 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7554
+#EXTINF:-1 tvg-id="cine.ar" tvg-name="Argentina: Cine AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CINEARLogo.png/200px-CINEARLogo.png" group-title="Argentina",Argentina: Cine AR
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6426
+#EXTINF:-1 tvg-id="AR - CN23" tvg-name="Argentina: CN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cn23logo2017.png" group-title="Argentina",Argentina: CN23
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7727
+#EXTINF:-1 tvg-id="" tvg-name="Argentina: DeporTV" tvg-logo="http://megaredargentina.com.ar/images/Canales/Deportv.png" group-title="Argentina",Argentina: DeporTV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7186
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="Argentina: El Nueve HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina",Argentina: El Nueve HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7507
+#EXTINF:-1 tvg-id="AR - El Trece" tvg-name="Argentina: El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",Argentina: El Trece HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7490
+#EXTINF:-1 tvg-id="AR - El Trece" tvg-name="Argentina: EL TRECE HD opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",Argentina: EL TRECE HD opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37218
+#EXTINF:-1 tvg-id="AR - El Trece" tvg-name="Argentina: EL TRECE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",Argentina: EL TRECE SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7508
+#EXTINF:-1 tvg-id="AR - Encuentro" tvg-name="Argentina: ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="Argentina",Argentina: ENCUENTRO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6630
+#EXTINF:-1 tvg-id="AR - El Garage" tvg-name="Argentina: Garage TV" tvg-logo="https://www.fulltv.com.ar/images/tv/el-garage-3058.png" group-title="Argentina",Argentina: Garage TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7164
+#EXTINF:-1 tvg-id="" tvg-name="Argentina: LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/300px-LN%2B.png" group-title="Argentina",Argentina: LN+
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6425
+#EXTINF:-1 tvg-id="AR - Pakapaka" tvg-name="Argentina: Paka Paka " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/1200px-Pakapaka_canal_logo.svg.png" group-title="Argentina",Argentina: Paka Paka 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7187
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Argentina: TELEFE HD" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/11/TelefeLogo.png" group-title="Argentina",Argentina: TELEFE HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7160
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Argentina: TELEFE SD" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/11/TelefeLogo.png" group-title="Argentina",Argentina: TELEFE SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7504
+#EXTINF:-1 tvg-id="AR - TN" tvg-name="Argentina: TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png" group-title="Argentina",Argentina: TN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7770
+#EXTINF:-1 tvg-id="AR - TV Pública" tvg-name="Argentina: TV PUBLICA HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/tv-p%C3%BAblica-logo.png" group-title="Argentina",Argentina: TV PUBLICA HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7506
+#EXTINF:-1 tvg-id="AR - TV Pública" tvg-name="Argentina: TV PUBLICA SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/tv-p%C3%BAblica-logo.png" group-title="Argentina",Argentina: TV PUBLICA SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7159
+#EXTINF:-1 tvg-id="AR - A24" tvg-name="Argentina:-A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A24-logonuevo.svg/1200px-A24-logonuevo.svg.png" group-title="Argentina",Argentina:-A24
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6424
+#EXTINF:-1 tvg-id="" tvg-name="Argentina:-Cronica-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/1200px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Argentina",Argentina:-Cronica-HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6423
+#EXTINF:-1 tvg-id="" tvg-name="Argentina:-TelPin" tvg-logo="https://www.telpin.com.ar/wp-content/uploads/2019/09/logo-telpin.png" group-title="Argentina",Argentina:-TelPin
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7052
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: Combate Hd" tvg-logo="" group-title="Brasil",Brasil: Combate Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10555
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: ESPN 2 Hd" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Brasil",Brasil: ESPN 2 Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10586
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: ESPN Brasil Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Brasil",Brasil: ESPN Brasil Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10587
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: ESPN Extra Hd" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="Brasil",Brasil: ESPN Extra Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10585
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: Fox Sports 1 Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Brasil",Brasil: Fox Sports 1 Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10548
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: Fox Sports 2 Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Brasil",Brasil: Fox Sports 2 Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10547
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: FOX SPORTS HD" tvg-logo="" group-title="Brasil",Brasil: FOX SPORTS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12715
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: GLOBO BRASILIA HD" tvg-logo="" group-title="Brasil",Brasil: GLOBO BRASILIA HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15742
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: GLOBO MINAS HD" tvg-logo="" group-title="Brasil",Brasil: GLOBO MINAS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15743
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: GLOBO NEWS HD" tvg-logo="" group-title="Brasil",Brasil: GLOBO NEWS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15744
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: GLOBO SP" tvg-logo="" group-title="Brasil",Brasil: GLOBO SP
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/39988
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: REDE TV" tvg-logo="" group-title="Brasil",Brasil: REDE TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15513
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: SBT HD" tvg-logo="" group-title="Brasil",Brasil: SBT HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15512
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: Sportv 2 Hd" tvg-logo="" group-title="Brasil",Brasil: Sportv 2 Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10563
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: Sportv 3 Hd" tvg-logo="" group-title="Brasil",Brasil: Sportv 3 Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10562
+#EXTINF:-1 tvg-id="" tvg-name="Brasil: Sportv Hd" tvg-logo="" group-title="Brasil",Brasil: Sportv Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10564
+#EXTINF:-1 tvg-id="CL - 24 Horas" tvg-name="Chile: 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="Chile",Chile: 24 HORAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10813
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="Chile: CANAL 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipo_de_Canal_13.png" group-title="Chile",Chile: CANAL 13 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6486
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="Chile: CANAL 13 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipo_de_Canal_13.png" group-title="Chile",Chile: CANAL 13 SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9484
+#EXTINF:-1 tvg-id="CL - CDO Premium" tvg-name="Chile: CDO PREMIUM" tvg-logo="http://images.mi.tv/channels/cl_cdo-premium_m.png" group-title="Chile",Chile: CDO PREMIUM
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8801
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="Chile: CHILEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chilevisi%C3%B3n_-_Logo_2018.svg/1280px-Chilevisi%C3%B3n_-_Logo_2018.svg.png" group-title="Chile",Chile: CHILEVISION HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7868
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="Chile: CHILEVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chilevisi%C3%B3n_-_Logo_2018.svg/1280px-Chilevisi%C3%B3n_-_Logo_2018.svg.png" group-title="Chile",Chile: CHILEVISION SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9485
+#EXTINF:-1 tvg-id="CL - ETC TV" tvg-name="Chile: ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",Chile: ETC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7892
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="Chile: LA RED HD" tvg-logo="https://vemostele.cl/wp-content/uploads/2021/02/La_Red_2011.png" group-title="Chile",Chile: LA RED HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6483
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="Chile: LA RED SD" tvg-logo="https://vemostele.cl/wp-content/uploads/2021/02/La_Red_2011.png" group-title="Chile",Chile: LA RED SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9482
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="Chile: MEGA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/2015-3.png" group-title="Chile",Chile: MEGA HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6485
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="Chile: MEGA SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/2015-3.png" group-title="Chile",Chile: MEGA SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9481
+#EXTINF:-1 tvg-id="CL - Teletrak" tvg-name="Chile: TELETRAk TV" tvg-logo="http://www.teletrak.cl/imagenes/logo.png" group-title="Chile",Chile: TELETRAk TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8803
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="Chile: TNT SPORTS 1 FHD" tvg-logo="https://www.entel.cl/public/logos/canales/tnt-sports-HD.png" group-title="Chile",Chile: TNT SPORTS 1 FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7706
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="Chile: TNT SPORTS 1 HD" tvg-logo="https://www.entel.cl/public/logos/canales/tnt-sports-HD.png" group-title="Chile",Chile: TNT SPORTS 1 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8961
+#EXTINF:-1 tvg-id="CL - CDF Premium" tvg-name="Chile: TNT SPORTS 2 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.358185e4d04eec477719b4c6ca24496b.png" group-title="Chile",Chile: TNT SPORTS 2 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8774
+#EXTINF:-1 tvg-id="CL - CDF Básico" tvg-name="Chile: TNT SPORTS 3 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.logo_tntsports_3hd_blanco.png.7d7c0d18d1a9f76c58b748a8efa7c310.png" group-title="Chile",Chile: TNT SPORTS 3 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6487
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="Chile: TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="Chile",Chile: TVN HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6484
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="Chile: TVN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="Chile",Chile: TVN SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9483
+#EXTINF:-1 tvg-id="" tvg-name="Cine: A&E SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="Cine",Cine: A&E SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6455
+#EXTINF:-1 tvg-id="" tvg-name="Cine: AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1000px-Amc_logo.svg.png" group-title="Cine",Cine: AMC SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7083
+#EXTINF:-1 tvg-id="" tvg-name="Cine: AXN SD" tvg-logo="http://images.mi.tv/channels/cl_axn_m.png" group-title="Cine",Cine: AXN SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6453
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINE LATINO" tvg-logo="https://colormake.com/wp-content/uploads/2014/03/Cinelatino_logo.png" group-title="Cine",Cine: CINE LATINO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6844
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINECANAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Cine",Cine: CINECANAL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6449
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINEMA DINAMITA" tvg-logo="https://trademarks.justia.com/media/image.php?serial=85957958" group-title="Cine",Cine: CINEMA DINAMITA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6442
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINEMAX SD" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Cine",Cine: CINEMAX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6451
+#EXTINF:-1 tvg-id="" tvg-name="Cine: DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine",Cine: DE PELICULA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7774
+#EXTINF:-1 tvg-id="" tvg-name="Cine: DHE" tvg-logo="http://images.mi.tv/channels/cl_dhe_m.png" group-title="Cine",Cine: DHE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6686
+#EXTINF:-1 tvg-id="" tvg-name="Cine: DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Cine",Cine: DISTRITO COMEDIA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6805
+#EXTINF:-1 tvg-id="" tvg-name="Cine: E! ENTERTAIMENT SD" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2014/03/e01.jpg" group-title="Cine",Cine: E! ENTERTAIMENT SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6821
+#EXTINF:-1 tvg-id="" tvg-name="Cine: EUROPA EUROPA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="Cine",Cine: EUROPA EUROPA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37127
+#EXTINF:-1 tvg-id="" tvg-name="Cine: FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Cine",Cine: FX FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7035
+#EXTINF:-1 tvg-id="" tvg-name="Cine: FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Cine",Cine: FX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37229
+#EXTINF:-1 tvg-id="" tvg-name="Cine: FXM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="Cine",Cine: FXM HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10454
+#EXTINF:-1 tvg-id="" tvg-name="Cine: GOLDEN EDGE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine",Cine: GOLDEN EDGE SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6995
+#EXTINF:-1 tvg-id="" tvg-name="Cine: GOLDEN PLUS SD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a2417c8b455b_GoldenPlus(Negro).png.9534b5113b089f65d6e76b2dd7645820.png" group-title="Cine",Cine: GOLDEN PLUS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6980
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="Cine: HBO 1  HD (Mx)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="Cine",Cine: HBO 1  HD (Mx)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8035
+#EXTINF:-1 tvg-id="CO - HBO HD" tvg-name="Cine: HBO 1 HD (Co)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="Cine",Cine: HBO 1 HD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30650
+#EXTINF:-1 tvg-id="CO - HBO" tvg-name="Cine: HBO 1 SD (Co)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="Cine",Cine: HBO 1 SD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7521
+#EXTINF:-1 tvg-id="CO - HBO 2 HD" tvg-name="Cine: HBO 2 HD (Co)" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png" group-title="Cine",Cine: HBO 2 HD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8002
+#EXTINF:-1 tvg-id="CO - HBO 2" tvg-name="Cine: HBO 2 SD (Co)" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png" group-title="Cine",Cine: HBO 2 SD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6508
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="Cine: HBO FAMILY HD (Co)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine",Cine: HBO FAMILY HD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8000
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="Cine: HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine",Cine: HBO FAMILY SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6507
+#EXTINF:-1 tvg-id="CO - HBO Mundi" tvg-name="Cine: HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Cine",Cine: HBO MUNDI HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30651
+#EXTINF:-1 tvg-id="CO - HBO Mundi" tvg-name="Cine: HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Cine",Cine: HBO MUNDI SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24378
+#EXTINF:-1 tvg-id="CO - HBO Plus (Panamericano HD)" tvg-name="Cine: HBO PLUS HD (Co)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine",Cine: HBO PLUS HD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6506
+#EXTINF:-1 tvg-id="CO - HBO Pop" tvg-name="Cine: HBO POP HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Cine",Cine: HBO POP HD 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24377
+#EXTINF:-1 tvg-id="CO - HBO Pop" tvg-name="Cine: HBO POP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Cine",Cine: HBO POP SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6961
+#EXTINF:-1 tvg-id="Canal HBO Signature Latinoamérica" tvg-name="Cine: HBO SIGNATURE HD" tvg-logo="https://cms.cignal.tv/Upload/Images/HB-O-SIG1.png" group-title="Cine",Cine: HBO SIGNATURE HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6505
+#EXTINF:-1 tvg-id="Canal HBO Signature Latinoamérica" tvg-name="Cine: HBO SIGNATURE HD (Co)" tvg-logo="https://cms.cignal.tv/Upload/Images/HB-O-SIG1.png" group-title="Cine",Cine: HBO SIGNATURE HD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8037
+#EXTINF:-1 tvg-id="Canal HBO Signature Latinoamérica" tvg-name="Cine: HBO SIGNATURE SD (Mx)" tvg-logo="https://cms.cignal.tv/Upload/Images/HB-O-SIG1.png" group-title="Cine",Cine: HBO SIGNATURE SD (Mx)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9047
+#EXTINF:-1 tvg-id="Canal HBO Xtreme" tvg-name="Cine: HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Cine",Cine: HBO XTREME HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14540
+#EXTINF:-1 tvg-id="" tvg-name="Cine: I SAT" tvg-logo="http://1.bp.blogspot.com/-A_8o05WhAeo/UC0rszHeRAI/AAAAAAAAA2I/cAI9x-P7UpY/s1600/isat+logo+2011.jpg" group-title="Cine",Cine: I SAT
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7027
+#EXTINF:-1 tvg-id="" tvg-name="Cine: PARAMOUNT CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="Cine",Cine: PARAMOUNT CHANNEL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8008
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SONY HD" tvg-logo="https://pngimg.com/uploads/sony_logo/sony_logo_PNG2.png" group-title="Cine",Cine: SONY HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37232
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SONY SD" tvg-logo="https://pngimg.com/uploads/sony_logo/sony_logo_PNG2.png" group-title="Cine",Cine: SONY SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6452
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SPACE SD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-58-canal-space.png" group-title="Cine",Cine: SPACE SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7093
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Cine",Cine: STAR ACTION HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37221
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Cine",Cine: STAR ACTION SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14782
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR CHANNEL HD" tvg-logo="https://estereofonica.com/wp-content/uploads/2021/02/hoy-llega-star-a-latinoamerica_original-1613996463-star-channel-logo-1200x675.jpg" group-title="Cine",Cine: STAR CHANNEL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37222
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR CHANNEL SD" tvg-logo="https://estereofonica.com/wp-content/uploads/2021/02/hoy-llega-star-a-latinoamerica_original-1613996463-star-channel-logo-1200x675.jpg" group-title="Cine",Cine: STAR CHANNEL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8029
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="Cine",Cine: STAR CINEMA HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37228
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR CINEMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="Cine",Cine: STAR CINEMA SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14784
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR CLASSIC SD" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/02/star_channel_960.jpg" group-title="Cine",Cine: STAR CLASSIC SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9122
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR COMEDY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png" group-title="Cine",Cine: STAR COMEDY HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9053
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR COMEDY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png" group-title="Cine",Cine: STAR COMEDY SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7022
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/250px-Star_Fun_2020.svg.png" group-title="Cine",Cine: STAR FUN HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37227
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/250px-Star_Fun_2020.svg.png" group-title="Cine",Cine: STAR FUN SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7657
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/250px-Star_Hits_2020.svg.png" group-title="Cine",Cine: STAR HITS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37220
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR HITS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/250px-Star_Hits_2020.svg.png" group-title="Cine",Cine: STAR HITS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9123
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR LIFE SD" tvg-logo="https://multipress.com.mx/wp-content/uploads/2021/02/original_1613996463_STAR-LIFE-LOGO-.jpg" group-title="Cine",Cine: STAR LIFE SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6465
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR SERIES HD" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Channel-logo-2021.jpg" group-title="Cine",Cine: STAR SERIES HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37219
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR SERIES SD" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Channel-logo-2021.jpg" group-title="Cine",Cine: STAR SERIES SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9124
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Cine",Cine: STUDIO UNIVERSAL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37225
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Cine",Cine: STUDIO UNIVERSAL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6458
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SYFY SD" tvg-logo="https://e7.pngegg.com/pngimages/982/954/png-clipart-sci-fi-channel-logo-television-show-syfy-universal-television-angle.png" group-title="Cine",Cine: SYFY SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7033
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TBS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Cine",Cine: TBS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6440
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TCM SD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/tcm.jpg" group-title="Cine",Cine: TCM SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7030
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TNT HD" tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="Cine",Cine: TNT HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37233
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="Cine: TNT SD" tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="Cine",Cine: TNT SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6461
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TNT SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine",Cine: TNT SERIES FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37234
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="Cine: TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine",Cine: TNT SERIES SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6462
+#EXTINF:-1 tvg-id="" tvg-name="Cine: UNIVERSAL CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Cine",Cine: UNIVERSAL CHANNEL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37226
+#EXTINF:-1 tvg-id="" tvg-name="Cine: UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Cine",Cine: UNIVERSAL CHANNEL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37224
+#EXTINF:-1 tvg-id="" tvg-name="Cine: UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Cine",Cine: UNIVERSAL CHANNEL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7034
+#EXTINF:-1 tvg-id="" tvg-name="Cine: WARNER CHANNEL SD" tvg-logo="https://www.kindpng.com/picc/m/171-1712329_warner-channel-tv-hd-png-download.png" group-title="Cine",Cine: WARNER CHANNEL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7080
+#EXTINF:-1 tvg-id="CANAL 13" tvg-name="Colombia: CANAL 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colombia",Colombia: CANAL 13 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54506
+#EXTINF:-1 tvg-id="canaltro.co" tvg-name="Colombia: CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="Colombia",Colombia: CANAL TRO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12571
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="Colombia: CANAL UNO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Colombia: CANAL UNO 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7772
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="Colombia: CARACOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="Colombia",Colombia: CARACOL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8014
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="Colombia: CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="Colombia",Colombia: CARACOL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7581
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="Colombia: CARACOL INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Caracol_Internacional_2017.png/1200px-Caracol_Internacional_2017.png" group-title="Colombia",Colombia: CARACOL INTERNACIONAL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7582
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="Colombia: CARACOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2015_Caracol_TV_logo.svg/1024px-2015_Caracol_TV_logo.svg.png" group-title="Colombia",Colombia: CARACOL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10729
+#EXTINF:-1 tvg-id="CITY TV" tvg-name="Colombia: CITY TV" tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/city-tv-bogota-colombia-en-vivo.png" group-title="Colombia",Colombia: CITY TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54575
+#EXTINF:-1 tvg-id="CANAL RCN" tvg-name="Colombia: RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",Colombia: RCN HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7578
+#EXTINF:-1 tvg-id="RCN TELENOVELAS" tvg-name="Colombia: RCN NOVELAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RCN_Novelas.png/120px-RCN_Novelas.png" group-title="Colombia",Colombia: RCN NOVELAS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6894
+#EXTINF:-1 tvg-id="NUESTRA TELE" tvg-name="Colombia: RCN NUESTRATELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",Colombia: RCN NUESTRATELE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6521
+#EXTINF:-1 tvg-id="RCN HD" tvg-name="Colombia: RCN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",Colombia: RCN SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7579
+#EXTINF:-1 tvg-id="senal.co" tvg-name="Colombia: SENAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/640px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia",Colombia: SENAL COLOMBIA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10800
+#EXTINF:-1 tvg-id="TELEANTIOQUIA" tvg-name="Colombia: TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="Colombia",Colombia: TELEANTIOQUIA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7567
+#EXTINF:-1 tvg-id="TELECAFE" tvg-name="Colombia: TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="Colombia",Colombia: TELECAFE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6537
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="Colombia: TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="Colombia",Colombia: TELECARIBE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7573
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="Colombia: TELEMEDELLIN" tvg-logo="https://samdom.telemedellin.tv/suiteapps/images/Telemedellin.png" group-title="Colombia",Colombia: TELEMEDELLIN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6536
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="Colombia: TELEPACIFICO" tvg-logo="http://telepacifico.com/dev/wp-content/uploads/2016/12/cropped-logo.png" group-title="Colombia",Colombia: TELEPACIFICO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7565
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Colombia: WIN SPORT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Colombia",Colombia: WIN SPORT FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6474
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COlombia: WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Colombia",COlombia: WIN SPORTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8015
+#EXTINF:-1 tvg-id="" tvg-name="Costa rica: CANAL TRECE" tvg-logo="" group-title="Costa rica",Costa rica: CANAL TRECE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26155
+#EXTINF:-1 tvg-id="" tvg-name="Costa rica: REPRETEL 11" tvg-logo="" group-title="Costa rica",Costa rica: REPRETEL 11
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26152
+#EXTINF:-1 tvg-id="" tvg-name="Costa rica: REPRETEL 4" tvg-logo="" group-title="Costa rica",Costa rica: REPRETEL 4
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26150
+#EXTINF:-1 tvg-id="" tvg-name="Costa rica: REPRETEL 6" tvg-logo="" group-title="Costa rica",Costa rica: REPRETEL 6
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26151
+#EXTINF:-1 tvg-id="" tvg-name="Costa rica: TELE UNO" tvg-logo="" group-title="Costa rica",Costa rica: TELE UNO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26153
+#EXTINF:-1 tvg-id="" tvg-name="Costa rica: TELETICA 7" tvg-logo="" group-title="Costa rica",Costa rica: TELETICA 7
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26154
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica: TIGO SPORTS opc1" tvg-logo="" group-title="Costa rica",Costa Rica: TIGO SPORTS opc1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14468
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent: Telemundo 25 Denver HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/KDEN-TV_Logo.png" group-title="Cultura y Entretenimiento",Cul - ent: Telemundo 25 Denver HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30704
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent: Telemundo 39 Dallas HD" tvg-logo="https://www.nbcumv.com/sites/default/files/styles/shows_landing_image_height_400_300/public/images/author_created/telemundo39dallas-fortworth_kxtx_show.jpg?itok=jSid-UV3" group-title="Cultura y Entretenimiento",Cul - ent: Telemundo 39 Dallas HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30698
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent: Telemundo 39 Las Vegas HD" tvg-logo="https://pbs.twimg.com/profile_images/771470242560221184/CfdbOSvy_400x400.jpg" group-title="Cultura y Entretenimiento",Cul - ent: Telemundo 39 Las Vegas HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30702
+#EXTINF:-1 tvg-id="" tvg-name="cul - ent: Telemundo 48 San Francisco HD" tvg-logo="https://media.telemundoareadelabahia.com/2019/09/TLMD_48_On_Light@3x-1.png?fit=210%2C120" group-title="Cultura y Entretenimiento",cul - ent: Telemundo 48 San Francisco HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30699
+#EXTINF:-1 tvg-id="" tvg-name="Cul - Ent: TELEMUNDO 51 MIAMI" tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/06/miami-telemundo-4by3.jpg" group-title="Cultura y Entretenimiento",Cul - Ent: TELEMUNDO 51 MIAMI
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14787
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent: Telemundo 60 Boston HD" tvg-logo="https://avatars.sched.co/5/85/10211945/avatar.jpg?4c1" group-title="Cultura y Entretenimiento",Cul - ent: Telemundo 60 Boston HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30701
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent: Telemundo 60 San Antonio HD" tvg-logo="https://www.nbcumv.com/sites/default/files/styles/shows_landing_image_height_400_300/public/images/author_created/telemundo60sanantonio_kvda_show.jpg?itok=ZfYUnRgX" group-title="Cultura y Entretenimiento",Cul - ent: Telemundo 60 San Antonio HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30700
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent:: TELEMUNDO 44 CHICAGO" tvg-logo="https://pbs.twimg.com/profile_images/771004560320163840/BZz9P2z__400x400.jpg" group-title="Cultura y Entretenimiento",Cul - ent:: TELEMUNDO 44 CHICAGO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14917
+#EXTINF:-1 tvg-id="" tvg-name="Cul - ent:: TELEMUNDO 52 LOS ANGELES" tvg-logo="https://www.nbcumv.com/sites/default/files/styles/200_x_200/public/images/preview/2015/07/14/NUP_170084/NUP_170084_0001.JPG?itok=zUCFRxcx" group-title="Cultura y Entretenimiento",Cul - ent:: TELEMUNDO 52 LOS ANGELES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14919
+#EXTINF:-1 tvg-id="" tvg-name="Cul -ent: TELEMUNDO 47 HOUSTON" tvg-logo="https://pbs.twimg.com/profile_images/1118626272664530945/QHg2vOhc_400x400.png" group-title="Cultura y Entretenimiento",Cul -ent: TELEMUNDO 47 HOUSTON
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14918
+#EXTINF:-1 tvg-id="CO - Animal Planet" tvg-name="Cul-Ent: ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: ANIMAL PLANET SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7014
+#EXTINF:-1 tvg-id="Canal CNN en Español" tvg-name="Cul-Ent: CNN EN ESPANOL" tvg-logo="https://www.steveharveylaw.com/wp-content/uploads/2013/06/cnn-hd-logo-png-sk.png" group-title="Cultura y Entretenimiento",Cul-Ent: CNN EN ESPANOL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13587
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Cul-Ent: DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY CHANNEL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37236
+#EXTINF:-1 tvg-id="CO - Discovery Channel" tvg-name="Cul-Ent: DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY CHANNEL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6496
+#EXTINF:-1 tvg-id="Canal Discovery Civilization (Latinoamérica)" tvg-name="Cul-Ent: DISCOVERY CIVILIZATION SD" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/3/39/Discovery_Civilization_2014.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY CIVILIZATION SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6490
+#EXTINF:-1 tvg-id="Canal Discovery Familia" tvg-name="Cul-Ent: DISCOVERY FAMILY HD" tvg-logo="https://www.vhv.rs/dpng/d/564-5643038_discovery-discovery-family-logos-wikia-hd-png-download.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY FAMILY HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54661
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="Cul-Ent: DISCOVERY HOME & HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1024px-H%26h_Logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY HOME & HEALTH HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37237
+#EXTINF:-1 tvg-id="CO - Discovery Home & Health" tvg-name="Cul-Ent: DISCOVERY HOME & HEALTH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1024px-H%26h_Logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY HOME & HEALTH SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6493
+#EXTINF:-1 tvg-id="CO - Discovery Science" tvg-name="Cul-Ent: DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/957px-Science_Channel_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY SCIENCE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7018
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="Cul-Ent: DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY THEATER SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7019
+#EXTINF:-1 tvg-id="CO - TLC" tvg-name="Cul-Ent: DISCOVERY TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY TLC SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6494
+#EXTINF:-1 tvg-id="Canal Discovery Turbo (Latinoamérica)" tvg-name="Cul-Ent: DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY TURBO SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6492
+#EXTINF:-1 tvg-id="CO - Discovery World" tvg-name="Cul-Ent: DISCOVERY WORLD SD" tvg-logo="http://www.tvlitoranea.com.br/canais/documentarios/discoveryworld.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY WORLD SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6491
+#EXTINF:-1 tvg-id="CO - El Gourmet" tvg-name="Cul-Ent: El GOURMET" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="Cultura y Entretenimiento",Cul-Ent: El GOURMET
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7085
+#EXTINF:-1 tvg-id="" tvg-name="Cul-Ent: FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Cultura y Entretenimiento",Cul-Ent: FOOD NETWORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9529
+#EXTINF:-1 tvg-id="CO - Glitz" tvg-name="Cul-Ent: GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: GLITZ
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7024
+#EXTINF:-1 tvg-id="Canal History 2 (Latinoamérica)" tvg-name="Cul-Ent: H2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Cultura y Entretenimiento",Cul-Ent: H2 SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7025
+#EXTINF:-1 tvg-id="Home & Garden Television (East)" tvg-name="Cul-Ent: HGTV" tvg-logo="https://www.hgtv.co.nz/images/common/facebook-image.png" group-title="Cultura y Entretenimiento",Cul-Ent: HGTV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37125
+#EXTINF:-1 tvg-id="CO - History" tvg-name="Cul-Ent: HISTORY SD" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Cultura y Entretenimiento",Cul-Ent: HISTORY SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6450
+#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Cul-Ent: INVESTIGATION DISCOVERY SD" tvg-logo="https://i0.wp.com/i.imgur.com/uPvJzrz.png" group-title="Cultura y Entretenimiento",Cul-Ent: INVESTIGATION DISCOVERY SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6495
+#EXTINF:-1 tvg-id="Canal Lifetime (México)" tvg-name="Cul-Ent: LIFETIME" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Cultura y Entretenimiento",Cul-Ent: LIFETIME
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7008
+#EXTINF:-1 tvg-id="CO - Más Chic" tvg-name="Cul-Ent: MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: MAS CHIC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8110
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="Cul-Ent: NATGEO HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Cultura y Entretenimiento",Cul-Ent: NATGEO HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8039
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="Cul-Ent: NATGEO SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Cultura y Entretenimiento",Cul-Ent: NATGEO SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37238
+#EXTINF:-1 tvg-id="CO - Nat Geo Wild" tvg-name="Cul-Ent: NATGEO WILD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: NATGEO WILD SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6457
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Cul-Ent: PASIONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: PASIONES HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7628
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Cul-Ent: PASIONES HD Opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: PASIONES HD Opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14566
+#EXTINF:-1 tvg-id="" tvg-name="Cul-Ent: TELEMUNDO 47 NY HD" tvg-logo="https://media.telemundo47.com/2019/09/T47-logo-black.jpg?fit=1200%2C675" group-title="Cultura y Entretenimiento",Cul-Ent: TELEMUNDO 47 NY HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8066
+#EXTINF:-1 tvg-id="CO - Telemundo" tvg-name="Cul-Ent: TELEMUNDO INTERNACIONAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: TELEMUNDO INTERNACIONAL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8845
+#EXTINF:-1 tvg-id="CO - TLNovelas" tvg-name="Cul-Ent: TELENOVELAS" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="Cultura y Entretenimiento",Cul-Ent: TELENOVELAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6475
+#EXTINF:-1 tvg-id="CO - TLNovelas" tvg-name="Cul-Ent: Telenovelas FHD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="Cultura y Entretenimiento",Cul-Ent: Telenovelas FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54664
+#EXTINF:-1 tvg-id="CO - TruTV" tvg-name="Cul-Ent: TRU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Cultura y Entretenimiento",Cul-Ent: TRU TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6989
+#EXTINF:-1 tvg-id="Canal Claro Sports" tvg-name="Deportes: CLARO SPORTS HD" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Deportes",Deportes: CLARO SPORTS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/55984
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: DIRECTV SPORT 2 HD" tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/06/directv-sports-2-300-150x150.png" group-title="Deportes",Deportes: DIRECTV SPORT 2 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6986
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: DIRECTV SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Deportes: DIRECTV SPORTS 1 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6926
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: DIRECTV SPORTS PLUS HD" tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsportsplustv.png" group-title="Deportes",Deportes: DIRECTV SPORTS PLUS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6987
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="Deportes: ESPN 1 ARG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Deportes",Deportes: ESPN 1 ARG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13202
+#EXTINF:-1 tvg-id="MX - ESPN" tvg-name="Deportes: ESPN 1 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Deportes",Deportes: ESPN 1 MX HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14598
+#EXTINF:-1 tvg-id="CO - ESPN" tvg-name="Deportes: ESPN 1 ARG SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Deportes",Deportes: ESPN 1 ARG SD 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8533
+#EXTINF:-1 tvg-id="MX - ESPN" tvg-name="Deportes: ESPN 1 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Deportes",Deportes: ESPN 1 MX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7654
+#EXTINF:-1 tvg-id="CO - ESPN 2" tvg-name="Deportes: ESPN 2 ARG SD" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deportes",Deportes: ESPN 2 ARG SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8534
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="Deportes: ESPN 2 ARG HD" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deportes",Deportes: ESPN 2 ARG HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13203
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="Deportes: ESPN 2 ARG FHD" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deportes",Deportes: ESPN 2 ARG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6480
+#EXTINF:-1 tvg-id="Canal ESPN 2 México" tvg-name="Deportes: ESPN 2 MX FHD" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deportes",Deportes: ESPN 2 MX FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/17549
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="Deportes: ESPN 3 ARG FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",Deportes: ESPN 3 ARG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13204
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="Deportes: ESPN 3 MX FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",Deportes: ESPN 3 MX FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13219
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="Deportes: ESPN 3 MX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",Deportes: ESPN 3 MX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7656
+#EXTINF:-1 tvg-id="CO - ESPN 3" tvg-name="Deportes: ESPN 3 ARG HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",Deportes: ESPN 3 ARG HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8021
+#EXTINF:-1 tvg-id="Canal ESPN Deportes" tvg-name="Deportes: ESPN DEPORTES" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Deportes",Deportes: ESPN DEPORTES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/17548
+#EXTINF:-1 tvg-id="CO - ESPN Extra" tvg-name="Deportes: ESPN PLUS " tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="Deportes",Deportes: ESPN PLUS 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8032
+#EXTINF:-1 tvg-id="Canal ESPN+ Latinoamérica" tvg-name="Deportes: ESPN+" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="Deportes",Deportes: ESPN+
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13205
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: FIGHTING SPORTS" tvg-logo="https://forounivers.com/uploads/monthly_2017_03/large.58dddac664b8b_FightingSportsNetwork.png.8a9abdf4cb48a24189775128a1cf45e1.png" group-title="Deportes",Deportes: FIGHTING SPORTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15568
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Deportes: FOX SPORTS 1 ARG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 1 ARG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7509
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Deportes: FOX SPORTS 1 MX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 1 MX FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8018
+#EXTINF:-1 tvg-id="AR - FOX 1 HD" tvg-name="Deportes: FOX SPORTS 1 ARG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 1 ARG HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7151
+#EXTINF:-1 tvg-id="CL - FOX Sports 1 HD" tvg-name="Deportes: FOX SPORTS 1 CHI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 1 CHI HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10797
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Deportes: FOX SPORTS 1 MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 1 MX 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7539
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Deportes: FOX SPORTS 1 ARG SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 1 ARG SD 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14447
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Deportes: FOX SPORTS 2 ARG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Deportes",Deportes: FOX SPORTS 2 ARG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7150
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Deportes: FOX SPORTS 2 ARG HD" tvg-logo="https://3.bp.blogspot.com/-YleGraZGkV0/WhIdkVwLBiI/AAAAAAAAAAs/M0abbPYEAhkSt2faZF1buQ6JHSlr0PPJACLcBGAs/s1600/fox2.png" group-title="Deportes",Deportes: FOX SPORTS 2 ARG HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7471
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Deportes: FOX SPORTS 2 CHI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Deportes",Deportes: FOX SPORTS 2 CHI HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10798
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Deportes: FOX SPORTS 2 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Deportes",Deportes: FOX SPORTS 2 MX HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8023
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Deportes: FOX SPORTS 2 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Deportes",Deportes: FOX SPORTS 2 MX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14451
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Deportes: FOX SPORTS 2 ARG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Deportes",Deportes: FOX SPORTS 2 ARG SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14448
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Deportes: FOX SPORTS 3 ARG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 3 ARG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8016
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Deportes: FOX SPORTS 3 ARG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 3 ARG HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7149
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Deportes: FOX SPORTS 3 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 3 MX HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8024
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Deportes: FOX SPORTS 3 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 3 MX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7683
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Deportes: FOX SPORTS 3 ARG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",Deportes: FOX SPORTS 3 ARG SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14449
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: LA LIGA TV BAR FHD" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="Deportes",Deportes: LA LIGA TV BAR FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/39979
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: M. LIGA DE CAMPEONES" tvg-logo="https://www.pngkit.com/png/detail/452-4529506_movistar-liga-de-campeones.png" group-title="Deportes",Deportes: M. LIGA DE CAMPEONES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15576
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: MOTO GP HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102013/motogp_cmyk_tm.png?itok=5mIqqtLS" group-title="Deportes",Deportes: MOTO GP HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7653
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: MOVISTAR F1" tvg-logo="https://cdn77.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="Deportes",Deportes: MOVISTAR F1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7652
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: TENNIS CHANEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Deportes",Deportes: TENNIS CHANEL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15264
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: UFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png" group-title="Deportes",Deportes: UFC TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15567
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="Deportes: ESPN 2 MX SD" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="Deportes",Deportes: ESPN 2 MX SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7655
+#EXTINF:-1 tvg-id="Canal DW (Latinoamérica)" tvg-name="DW EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Cultura y Entretenimiento",DW EN ESPAÑOL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30648
+#EXTINF:-1 tvg-id="Canal Uno (Ecuador)" tvg-name="Ecuador: CANAL UNO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_(Ecuador)_logo.png/640px-Canal_Uno_(Ecuador)_logo.png" group-title="Ecuador",Ecuador: CANAL UNO FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10443
+#EXTINF:-1 tvg-id="Canal Uno (Ecuador)" tvg-name="Ecuador: CANAL UNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_(Ecuador)_logo.png/640px-Canal_Uno_(Ecuador)_logo.png" group-title="Ecuador",Ecuador: CANAL UNO HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6662
+#EXTINF:-1 tvg-id="Canal Uno (Ecuador)" tvg-name="Ecuador: CANAL UNO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_(Ecuador)_logo.png/640px-Canal_Uno_(Ecuador)_logo.png" group-title="Ecuador",Ecuador: CANAL UNO SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6513
+#EXTINF:-1 tvg-id="canelatv.ec" tvg-name="Ecuador: CANELA TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV-218x150.png" group-title="Ecuador",Ecuador: CANELA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8079
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="Ecuador: DIRECTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Ecuador",Ecuador: DIRECTV SPORTS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10744
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="Ecuador: DIRECTV SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Ecuador",Ecuador: DIRECTV SPORTS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10743
+#EXTINF:-1 tvg-id="Canal Ecuador TV" tvg-name="Ecuador: ECUADOR TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="Ecuador",Ecuador: ECUADOR TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12552
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador)" tvg-name="Ecuador: ECUAVISA (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador",Ecuador: ECUAVISA (SD)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9041
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador)" tvg-name="Ecuador: ECUAVISA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador",Ecuador: ECUAVISA FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6825
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador)" tvg-name="Ecuador: ECUAVISA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador",Ecuador: ECUAVISA HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6647
+#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-name="Ecuador: GAMAVISION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Ecuador: GAMAVISION FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6826
+#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-name="Ecuador: GAMAVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Ecuador: GAMAVISION HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6515
+#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-name="Ecuador: GAMAVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Ecuador: GAMAVISION SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9043
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador: GOL TV 720" tvg-logo="https://media.glassdoor.com/sqll/260980/gol-tv-squarelogo.png" group-title="Ecuador",Ecuador: GOL TV 720
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9269
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador: GOL TV ECUADOR FHD" tvg-logo="https://media.glassdoor.com/sqll/260980/gol-tv-squarelogo.png" group-title="Ecuador",Ecuador: GOL TV ECUADOR FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7914
+#EXTINF:-1 tvg-id="Canal GolTV Latinoamérica" tvg-name="Ecuador: GOL TV HD" tvg-logo="https://media.glassdoor.com/sqll/260980/gol-tv-squarelogo.png" group-title="Ecuador",Ecuador: GOL TV HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7724
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador: GOL TV SD" tvg-logo="https://media.glassdoor.com/sqll/260980/gol-tv-squarelogo.png" group-title="Ecuador",Ecuador: GOL TV SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7650
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="Ecuador: OROMAR TV HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/350px-Oromar_logo.png" group-title="Ecuador",Ecuador: OROMAR TV HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7196
+#EXTINF:-1 tvg-id="Canal RTS" tvg-name="Ecuador: RTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador",Ecuador: RTS FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10442
+#EXTINF:-1 tvg-id="Canal RTS" tvg-name="Ecuador: RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador",Ecuador: RTS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6966
+#EXTINF:-1 tvg-id="Canal RTS" tvg-name="Ecuador: RTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador",Ecuador: RTS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14969
+#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-name="Ecuador: TC TELEVISION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="Ecuador",Ecuador: TC TELEVISION FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6514
+#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-name="Ecuador: TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="Ecuador",Ecuador: TC TELEVISION HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6967
+#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-name="Ecuador: TC TELEVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="Ecuador",Ecuador: TC TELEVISION SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9044
+#EXTINF:-1 tvg-id="Canal Teleamazonas" tvg-name="Ecuador: TELEAMAZONAS FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/120px-Teleamazonas_Logo.png" group-title="Ecuador",Ecuador: TELEAMAZONAS FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6516
+#EXTINF:-1 tvg-id="Canal Teleamazonas" tvg-name="Ecuador: TELEAMAZONAS HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/120px-Teleamazonas_Logo.png" group-title="Ecuador",Ecuador: TELEAMAZONAS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9042
+#EXTINF:-1 tvg-id="Canal Teleamazonas" tvg-name="Ecuador: TELEAMAZONAS SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/120px-Teleamazonas_Logo.png" group-title="Ecuador",Ecuador: TELEAMAZONAS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6968
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador: TVC" tvg-logo="http://cdn.tvc.com.ec/sites/common/img/logo_televicentro.png" group-title="Ecuador",Ecuador: TVC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7910
+#EXTINF:-1 tvg-id="" tvg-name="El-Salvador: TVX" tvg-logo="http://images.mi.tv/channels/sv_canal-23-tvx_m.png" group-title="El Salvador",El-Salvador: TVX
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8401
+#EXTINF:-1 tvg-id="" tvg-name="El-Salvador: WOW TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png?fit=500%2C300" group-title="El Salvador",El-Salvador: WOW TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8408
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Antena 3 HD" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Espana: Antena 3 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7638
+#EXTINF:-1 tvg-id="" tvg-name="Espana: BARCA TV" tvg-logo="" group-title="España",Espana: BARCA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9673
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Caza y Pesca HD" tvg-logo="" group-title="España",Espana: Caza y Pesca HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7647
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Cuatro HD" tvg-logo="http://silviasanzpsicologa.com/wp-content/uploads/2016/01/cuatro.png" group-title="España",Espana: Cuatro HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7640
+#EXTINF:-1 tvg-id="" tvg-name="Espana: La Sexta HD" tvg-logo="https://www.abc.es/Media/201201/26/1246737157_La%20Sexta.jpeg" group-title="España",Espana: La Sexta HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7641
+#EXTINF:-1 tvg-id="" tvg-name="Espana: MEGA HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" group-title="España",Espana: MEGA HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7643
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Movistar Accion HD" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+accion-01.png/d0c2aa45-1caa-65b0-f1af-6b84290f7691?t=1487255285335" group-title="España",Espana: Movistar Accion HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7642
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Movistar Golf HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg" group-title="España",Espana: Movistar Golf HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7175
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Movistar Series" tvg-logo="https://pbs.twimg.com/profile_images/907900429647872000/1F5Bsw-0_400x400.jpg" group-title="España",Espana: Movistar Series
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7644
+#EXTINF:-1 tvg-id="" tvg-name="Espana: RTVE" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAaINRfomFBFigmHkDEJBaFqEsk73z_DE3qMA=s900-mo-c-c0xffffffff-rj-k-no" group-title="España",Espana: RTVE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7247
+#EXTINF:-1 tvg-id="" tvg-name="Espana: Telecinco HD" tvg-logo="https://2.bp.blogspot.com/-H_AMiRnw1Xw/W0jdqZfL2zI/AAAAAAABa7Q/-ynwwABtO9U1H06PYnDNzNJ5mcm4CNWBACLcBGAs/s1600/programacion-telecinco.jpg" group-title="España",Espana: Telecinco HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7645
+#EXTINF:-1 tvg-id="" tvg-name="Espana: TOROS" tvg-logo="" group-title="España",Espana: TOROS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7827
+#EXTINF:-1 tvg-id="" tvg-name="Espana: TVE" tvg-logo="" group-title="España",Espana: TVE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7646
+#EXTINF:-1 tvg-id="" tvg-name="España: CINE Ñ" tvg-logo="" group-title="España",España: CINE Ñ
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23656
+#EXTINF:-1 tvg-id="" tvg-name="España: GOL TV" tvg-logo="" group-title="España",España: GOL TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15578
+#EXTINF:-1 tvg-id="" tvg-name="España: MOVISTAR COMEDIA" tvg-logo="" group-title="España",España: MOVISTAR COMEDIA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23654
+#EXTINF:-1 tvg-id="" tvg-name="España: MOVISTAR DRAMA" tvg-logo="" group-title="España",España: MOVISTAR DRAMA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23655
+#EXTINF:-1 tvg-id="" tvg-name="España: MOVISTAR ESTRENOS" tvg-logo="" group-title="España",España: MOVISTAR ESTRENOS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23652
+#EXTINF:-1 tvg-id="" tvg-name="España: MOVISTAR SERIESMANIA" tvg-logo="" group-title="España",España: MOVISTAR SERIESMANIA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23657
+#EXTINF:-1 tvg-id="" tvg-name="España: PANDA TV" tvg-logo="" group-title="España",España: PANDA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15569
+#EXTINF:-1 tvg-id="" tvg-name="España: REAL MADRID TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="España",España: REAL MADRID TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7173
+#EXTINF:-1 tvg-id="" tvg-name="España: VIAJAR HD" tvg-logo="https://guiashistoriadorex.com/wp-content/uploads/2018/10/logo_viajar.png" group-title="España",España: VIAJAR HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/38415
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: BRAVO TV" tvg-logo="https://img.favpng.com/24/10/9/bravo-television-channel-television-show-logo-tv-png" group-title="USA",Estados unidos: BRAVO TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/39986
+#EXTINF:-1 tvg-id="" tvg-name="ESTADOS UNIDOS: DISCOVERY CHANNEL" tvg-logo="http://www.nor-del.com/images/Channels/discovery_us.png" group-title="USA",ESTADOS UNIDOS: DISCOVERY CHANNEL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14924
+#EXTINF:-1 tvg-id="" tvg-name="ESTADOS UNIDOS: DISCOVERY FAMILY" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/discovery_family_channel_logo_5586.png" group-title="USA",ESTADOS UNIDOS: DISCOVERY FAMILY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14923
+#EXTINF:-1 tvg-id="" tvg-name="ESTADOS UNIDOS: DISCOVERY LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/831px-Discovery_Life_logo.svg.png" group-title="USA",ESTADOS UNIDOS: DISCOVERY LIFE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14925
+#EXTINF:-1 tvg-id="" tvg-name="ESTADOS UNIDOS: DISCOVERY SCINCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/957px-Science_Channel_logo.svg.png" group-title="USA",ESTADOS UNIDOS: DISCOVERY SCINCE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14927
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos: DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",Estados Unidos: DISCOVERY TLC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14928
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos: ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="USA",Estados Unidos: ESPN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14881
+#EXTINF:-1 tvg-id="CO - ESPN 2" tvg-name="Estados Unidos: ESPN 2" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="USA",Estados Unidos: ESPN 2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14880
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos: ESPN U" tvg-logo="https://hd-report.com/wp-content/uploads/2014/03/ESPNU-HD-logo.png" group-title="USA",Estados Unidos: ESPN U
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14890
+#EXTINF:-1 tvg-id="" tvg-name="ESTADOS UNIDOS: INVESTIGACIÓN DEL DESCUBRIMIENTO" tvg-logo="https://i0.wp.com/i.imgur.com/uPvJzrz.png" group-title="USA",ESTADOS UNIDOS: INVESTIGACIÓN DEL DESCUBRIMIENTO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14926
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME" tvg-logo="https://toppng.com/uploads/preview/showtime-logo-11551049160xwdkvjy4f5.png" group-title="USA",Estados unidos: SHOWTIME
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30675
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME BEYOND" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/Showtime-Beyond.jpg" group-title="USA",Estados unidos: SHOWTIME BEYOND
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30682
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME EAST" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg" group-title="USA",Estados unidos: SHOWTIME EAST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30677
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME FAMILY" tvg-logo="https://i1.pngguru.com/preview/412/869/253/tv-channel-icons-pack-showtime-family-zone-color-png-icon.jpg" group-title="USA",Estados unidos: SHOWTIME FAMILY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30683
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME NEXT" tvg-logo="https://sportsonlinestreamer.com/batman/2020/01/images-2.png" group-title="USA",Estados unidos: SHOWTIME NEXT
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30679
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME SHOWCASE" tvg-logo="https://wtcks.com/images/channels/logos/showcase.png" group-title="USA",Estados unidos: SHOWTIME SHOWCASE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30678
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME WEST" tvg-logo="https://seeklogo.com/images/S/Showtime_West-logo-4D2CF9A40A-seeklogo.com.gif" group-title="USA",Estados unidos: SHOWTIME WEST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30676
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME WOMEN" tvg-logo="https://wtcks.com/images/channels/logos/showtimewomen.png" group-title="USA",Estados unidos: SHOWTIME WOMEN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30681
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: SHOWTIME XTREME" tvg-logo="https://1284474717.rsc.cdn77.org/wp-content/uploads/Promoter-Body-LOGOS/sho-extreme.JPG" group-title="USA",Estados unidos: SHOWTIME XTREME
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30680
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1200px-Starz_Cinema_logo.svg.png" group-title="USA",Estados unidos: STARZ CINEMA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30690
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ COMEDY" tvg-logo="https://p1.hiclipart.com/preview/172/617/113/tv-channel-icons-pack-starz-comedy-black-png-icon.jpg" group-title="USA",Estados unidos: STARZ COMEDY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30689
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ EAST" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/3/38/Starz_East_Midlands_2005.png/revision/latest/scale-to-width-down/340?cb=20200227222409" group-title="USA",Estados unidos: STARZ EAST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30686
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ EDGE" tvg-logo="https://p.kindpng.com/picc/s/277-2770652_image-g-ery-starz-logo-starz-edge-hd.png" group-title="USA",Estados unidos: STARZ EDGE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30685
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ ENCORE ACTION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-action.png" group-title="USA",Estados unidos: STARZ ENCORE ACTION
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30688
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ ENCORE BLACK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-black.png" group-title="USA",Estados unidos: STARZ ENCORE BLACK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30695
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: Starz Encore Classics" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-classic.png" group-title="USA",Estados unidos: Starz Encore Classics
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30696
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ ENCORE EAST" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="USA",Estados unidos: STARZ ENCORE EAST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30692
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ ENCORE FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="USA",Estados unidos: STARZ ENCORE FAMILY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30694
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ ENCORE WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="USA",Estados unidos: STARZ ENCORE WEST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30693
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ ENCORE WESTERN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="USA",Estados unidos: STARZ ENCORE WESTERN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30687
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ IN BLACK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzinblack.png" group-title="USA",Estados unidos: STARZ IN BLACK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30684
+#EXTINF:-1 tvg-id="" tvg-name="Estados unidos: STARZ KIDS & FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="USA",Estados unidos: STARZ KIDS & FAMILY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30691
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: ANTIGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png" group-title="Guatemala",Guatemala: ANTIGUA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37112
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: CANAL 11" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="Guatemala",Guatemala: CANAL 11
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37108
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: CANAL 13" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="Guatemala",Guatemala: CANAL 13
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37109
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: CANAL 3" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-vivo-Online.png" group-title="Guatemala",Guatemala: CANAL 3
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37110
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: CANAL 7" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png" group-title="Guatemala",Guatemala: CANAL 7
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37111
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: CANAL AZTECA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Guatemala-en-vivo-Online.png" group-title="Guatemala",Guatemala: CANAL AZTECA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37113
+#EXTINF:-1 tvg-id="" tvg-name="Hondura: VS CHANNEL" tvg-logo="https://lh3.googleusercontent.com/ZXtWcNbtnWF1uW4A0XMmEPxs3mFH9_evscUjx_DvOBwMj503tsqeXJBecFi2bzVkKIMDSA=s151" group-title="Honduras:",Hondura: VS CHANNEL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/39980
+#EXTINF:-1 tvg-id="HN - Canal 11 HD" tvg-name="Honduras: CANAL 11" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png" group-title="Honduras:",Honduras: CANAL 11
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15607
+#EXTINF:-1 tvg-id="HN - Canal 5" tvg-name="Honduras: CANAL 5 LIDER" tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="Honduras:",Honduras: CANAL 5 LIDER
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15608
+#EXTINF:-1 tvg-id="HN - Hable Como Habla" tvg-name="Honduras: HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" group-title="Honduras:",Honduras: HCH
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12569
+#EXTINF:-1 tvg-id="HN - Alfa & Omega Vision" tvg-name="Honduras: Mega-TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/MegaTVHN2010-SD.png/revision/latest/scale-to-width-down/1000?cb=20201025183547&path-prefix=es" group-title="Honduras:",Honduras: Mega-TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12566
+#EXTINF:-1 tvg-id="" tvg-name="Honduras: Q Hubo" tvg-logo="" group-title="Honduras:",Honduras: Q Hubo
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12565
+#EXTINF:-1 tvg-id="HN - Telecadena 7 y 4" tvg-name="Honduras: TELECADENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Honduras:",Honduras: TELECADENA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15605
+#EXTINF:-1 tvg-id="HN - Telesistema 3 y 7" tvg-name="Honduras: TELESISTEMA" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Honduras:",Honduras: TELESISTEMA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15609
+#EXTINF:-1 tvg-id="HN - Telecadena 7 y 4" tvg-name="Honduras; UNE TV" tvg-logo="https://1.bp.blogspot.com/-mprksXCLINg/XTGuJErGVHI/AAAAAAAAIBA/OoA1vHRMrV4gSFOIQIygdj-gpg4d5TrgQCLcBGAs/s210/Canal%2BUne%2BTV.png" group-title="Honduras:",Honduras; UNE TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15606
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="Infantil: BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png" group-title="Infantil",Infantil: BABY TV SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33645
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantil",Infantil: BOOMERANG
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33646
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: BOOMERANG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantil",Infantil: BOOMERANG FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33649
+#EXTINF:-1 tvg-id="disneychannel.ar" tvg-name="Infantil: CANALES DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/03/Disney-Channel-Logo-2014.png" group-title="Infantil",Infantil: CANALES DISNEY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33952
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: CARTOON NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="Infantil",Infantil: CARTOON NETWORK FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33648
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: CARTOON NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="Infantil",Infantil: CARTOON NETWORK SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33647
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="Infantil: DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil",Infantil: DISCOVERY KIDS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33958
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Infantil: DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil",Infantil: DISCOVERY KIDS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33959
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Infantil: DISNEY CHANEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/03/Disney-Channel-Logo-2014.png" group-title="Infantil",Infantil: DISNEY CHANEL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33955
+#EXTINF:-1 tvg-id="disneyjunior.ar" tvg-name="Infantil: DISNEY JUNIOR FHD" tvg-logo="https://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_jr.png" group-title="Infantil",Infantil: DISNEY JUNIOR FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33957
+#EXTINF:-1 tvg-id="disneyjunior.ar" tvg-name="Infantil: DISNEY JUNIOR SD" tvg-logo="https://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_jr.png" group-title="Infantil",Infantil: DISNEY JUNIOR SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33956
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="Infantil: DISNEY XD FHD" tvg-logo="http://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_xd.png" group-title="Infantil",Infantil: DISNEY XD FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33954
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: DISNEY XD SD" tvg-logo="http://mediakit.go.com/wp-content/uploads/2017/03/logo_disney_xd.png" group-title="Infantil",Infantil: DISNEY XD SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33953
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NATGEO KIDS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_(2017).png" group-title="Infantil",Infantil: NATGEO KIDS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33960
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NICK 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_2_logo_(2010).svg/1280px-Nick_2_logo_(2010).svg.png" group-title="Infantil",Infantil: NICK 2 FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33968
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NICK 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_2_logo_(2010).svg/1280px-Nick_2_logo_(2010).svg.png" group-title="Infantil",Infantil: NICK 2 SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33967
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="Infantil: NICK JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Infantil: NICK JUNIOR HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33966
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="Infantil: NICK JUNIOR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Infantil: NICK JUNIOR SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33965
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Infantil: NICKELODEON FHD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png" group-title="Infantil",Infantil: NICKELODEON FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33963
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Infantil: NICKELODEON SD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png" group-title="Infantil",Infantil: NICKELODEON SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33962
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: NICKTOONS" tvg-logo="http://vignette2.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT!.PNG" group-title="Infantil",Infantil: NICKTOONS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33964
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: TOONCAST SD" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Tooncast.png" group-title="Infantil",Infantil: TOONCAST SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/33961
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: AZTECA 7" tvg-logo="http://images.mi.tv/channels/mx_azteca-7_m.png" group-title="Mexico",Mexico: AZTECA 7
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6843
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: AZTECA MUNDO" tvg-logo="" group-title="Mexico",Mexico: AZTECA MUNDO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6806
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: CANAL 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Mexico: CANAL 5 FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6891
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Mexico",Mexico: CANAL DE LAS ESTRELLAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6819
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/2000px-Galavision_Logo_2013.svg.png" group-title="Mexico",Mexico: GALAVISION
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7073
+#EXTINF:-1 tvg-id="Canal ¡HOLA! TV" tvg-name="Mexico: HOLA TV" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHY7DAVYCYLicxlKpxHxhkikeExpHBKn8A72w=s900-mo-c-c0xffffffff-rj-k-no" group-title="Mexico",Mexico: HOLA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7013
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: TU TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/84/20161008192614%21Logo_TDN.png/120px-Logo_TDN.png" group-title="Mexico",Mexico: TU TDN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6441
+#EXTINF:-1 tvg-id="" tvg-name="Mexico: UNIMAS HD" tvg-logo="https://pbs.twimg.com/profile_images/665169187946364929/2y3w3T8E_400x400.jpg" group-title="Mexico",Mexico: UNIMAS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7061
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: BANDAMAX" tvg-logo="" group-title="Musical",MUSICA: BANDAMAX
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9293
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="Musica: HTV" tvg-logo="" group-title="Musical",Musica: HTV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23498
+#EXTINF:-1 tvg-id="" tvg-name="Musica: MTV" tvg-logo="http://axn.cableplay.net:25461/images/EQkBXdfWlRqpXtg8zN6MF7gh2mgvh2Jc.png" group-title="Musical",Musica: MTV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8012
+#EXTINF:-1 tvg-id="" tvg-name="Musica: MUSIC TOP" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/musictop.png?fit=800%2C500" group-title="Musical",Musica: MUSIC TOP
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6694
+#EXTINF:-1 tvg-id="" tvg-name="Musica: RETRO TV" tvg-logo="" group-title="Musical",Musica: RETRO TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/17168
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VH1" tvg-logo="http://images.mi.tv/channels/mx_vh1_m.png" group-title="Musical",Musica: VH1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7997
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VH1 CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1280px-LOGO_VH1_CLASSIC.svg.png" group-title="Musical",Musica: VH1 CLASSIC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7906
+#EXTINF:-1 tvg-id="proyecto40.mx" tvg-name="México: ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="Mexico",México: ADN 40
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7781
+#EXTINF:-1 tvg-id="Canal AYM Sports" tvg-name="Deportes: AYM SPORTS" tvg-logo="http://pescaendirecto.com/wp-content/uploads/easy_logo_slider/498508Logo-AYM.png" group-title="Deportes",Deportes: AYM SPORTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10815
+#EXTINF:-1 tvg-id="" tvg-name="México: AZTECA CINEMA SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="Mexico",México: AZTECA CINEMA SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6905
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="México: AZTECA CLIC FHD" tvg-logo="https://images.wikia.nocookie.net/__cb20171106202311/logopedia/images/thumb/3/3f/Azclic2014.png/130px-53%2C186%2C0%2C117-Azclic2014.png" group-title="Mexico",México: AZTECA CLIC FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8061
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="México: AZTECA CORAZON" tvg-logo="http://images.mi.tv/channels/sv_az-corazon_m.png" group-title="Mexico",México: AZTECA CORAZON
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7674
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="México: AZTECA CORAZON FHD" tvg-logo="http://images.mi.tv/channels/sv_az-corazon_m.png" group-title="Mexico",México: AZTECA CORAZON FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8060
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="México: AZTECA MUNDO FHD" tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="Mexico",México: AZTECA MUNDO FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8058
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="México: AZTECA UNO FHD" tvg-logo="https://i.imgur.com/WvaRdt1.png" group-title="Mexico",México: AZTECA UNO FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8766
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="México: AZTECA UNO SD" tvg-logo="https://i.imgur.com/WvaRdt1.png" group-title="Mexico",México: AZTECA UNO SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7719
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="México: CANAL 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",México: CANAL 5 SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14584
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="México: CANAL DE LAS ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Mexico",México: CANAL DE LAS ESTRELLAS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14583
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="México: CANAL ONCE" tvg-logo="http://canalonce.mx/ciudad/images/logo_once_GRIS.png" group-title="Mexico",México: CANAL ONCE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8116
+#EXTINF:-1 tvg-id="xhtm.es" tvg-name="México: ESTRELLA TV" tvg-logo="http://www.hispanicizewire.com/wp-content/uploads/2016/09/estrella-tv-logo-304x186-1.png" group-title="Mexico",México: ESTRELLA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10594
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="México: FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="Mexico",México: FORO TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10449
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="México: IMAGEN TV" tvg-logo="http://www.desarrollohumanogrt.com/uploads/2/2/5/8/22589650/4_2_orig.png" group-title="Mexico",México: IMAGEN TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10448
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="México: MILENIO TV" tvg-logo="https://media.tvalacarta.info/canales/256x256/mileniotv.png" group-title="Mexico",México: MILENIO TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13220
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="México: Multimedios Monterrey" tvg-logo="http://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="Mexico",México: Multimedios Monterrey
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10859
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="Deportes: TUDN FHD Mx" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",Deportes: TUDN FHD Mx
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8064
+#EXTINF:-1 tvg-id="Canal TVC (México)" tvg-name="Deportes: TVC DEPORTES Mx" tvg-logo="https://futbolcritico13.files.wordpress.com/2012/10/tvcd.png" group-title="Deportes",Deportes: TVC DEPORTES Mx
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/10451
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="México: UNICABLE" tvg-logo="http://www.planetfools.com/unicable.png" group-title="Mexico",México: UNICABLE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7730
+#EXTINF:-1 tvg-id="" tvg-name="México: UNIVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Cultura y Entretenimiento",México: UNIVISION HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8063
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="México:-COMEDIA-CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comedy_Central_2011_OnAir_Logo.svg/536px-Comedy_Central_2011_OnAir_Logo.svg.png" group-title="Mexico",México:-COMEDIA-CENTRAL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8118
+#EXTINF:-1 tvg-id="" tvg-name="Nova" tvg-logo="" group-title="España",Nova
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54561
+#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="Deportes: FOX SPORTS PREMIUM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="Deportes",Deportes: FOX SPORTS PREMIUM
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12748
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportes",Deportes: TNT SPORTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8083
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="Deportes : TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes",Deportes : TyC Sports
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7474
+#EXTINF:-1 tvg-id="" tvg-name="Panama:  Telemetro" tvg-logo="" group-title="Panama",Panama:  Telemetro
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30643
+#EXTINF:-1 tvg-id="" tvg-name="Panama: Mas TV 23 " tvg-logo="" group-title="Panama",Panama: Mas TV 23 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30647
+#EXTINF:-1 tvg-id="" tvg-name="Panama: Next TV" tvg-logo="" group-title="Panama",Panama: Next TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30646
+#EXTINF:-1 tvg-id="" tvg-name="Panama: RCP" tvg-logo="" group-title="Panama",Panama: RCP
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30645
+#EXTINF:-1 tvg-id="" tvg-name="Panama: Telemetro 13 " tvg-logo="" group-title="Panama",Panama: Telemetro 13 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30644
+#EXTINF:-1 tvg-id="" tvg-name="Panama: TV MAX*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TVMAXPANAMA.svg/1280px-TVMAXPANAMA.svg.png" group-title="Panama",Panama: TV MAX*
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7876
+#EXTINF:-1 tvg-id="" tvg-name="Panama: TVN" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png?resize=324%2C235" group-title="Panama",Panama: TVN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8424
+#EXTINF:-1 tvg-id="PY - C9N" tvg-name="Paraguay:  C9N" tvg-logo="https://i1.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png" group-title="Paraguay",Paraguay:  C9N
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30709
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay: FARRA PLAY" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/75/d1/f5/75d1f5c5-ff25-277b-2e8c-97af7911a18d/mzl.rdsodagk.jpg/1200x630wa.png" group-title="Paraguay",Paraguay: FARRA PLAY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30710
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay: GEN TV" tvg-logo="https://www.okparaguay.com/wp-content/uploads/2020/07/grn.png" group-title="Paraguay",Paraguay: GEN TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30711
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay: NOTICIAS PY" tvg-logo="https://www.guaranivirtual.shop/wp-content/uploads/2019/12/noticias-py-en-vivo-canal-2.png" group-title="Paraguay",Paraguay: NOTICIAS PY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37242
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay: RCC" tvg-logo="https://www.okparaguay.com/wp-content/uploads/2020/07/rcc.png" group-title="Paraguay",Paraguay: RCC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37241
+#EXTINF:-1 tvg-id="PY - SNT" tvg-name="Paraguay: SNT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Snt-en-vivo.png" group-title="Paraguay",Paraguay: SNT
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37240
+#EXTINF:-1 tvg-id="PY - Telefuturo" tvg-name="Paraguay: Telefuturo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Telefuturo_py.png" group-title="Paraguay",Paraguay: Telefuturo
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9576
+#EXTINF:-1 tvg-id="PY - Tigo Sports" tvg-name="Paraguay: TIGO SPORTS opc1" tvg-logo="https://www.tigosports.gt/profiles/gcoop_base_profile/themes/tigosports/tigosports.png" group-title="Paraguay",Paraguay: TIGO SPORTS opc1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14463
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay: TIGO SPORTS PLUS" tvg-logo="https://cdn-tigo-gt.tigocloud.net/img/guia-tv/tigosports-plus.png" group-title="Paraguay",Paraguay: TIGO SPORTS PLUS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14465
+#EXTINF:-1 tvg-id="PY - Unicanal" tvg-name="Paraguay: UNICANAL" tvg-logo="https://ewsat.com/img/UNICANAL.png" group-title="Paraguay",Paraguay: UNICANAL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7585
+#EXTINF:-1 tvg-id="PY - RPC" tvg-name="Paraguay:-RPC" tvg-logo="https://w0.pngwave.com/png/458/189/rpc-tv-remote-procedure-call-logo-port-rpctv-png-clip-art.png" group-title="Paraguay",Paraguay:-RPC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14122
+#EXTINF:-1 tvg-id="PE - América Televisión" tvg-name="Peru: AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Peru",Peru: AMERICA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6444
+#EXTINF:-1 tvg-id="PE - América Televisión" tvg-name="Peru: AMERICA TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Peru",Peru: AMERICA TV 2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8321
+#EXTINF:-1 tvg-id="PE - ATV" tvg-name="Peru: ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Peru",Peru: ATV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8325
+#EXTINF:-1 tvg-id="" tvg-name="Peru: CANAL N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Peru",Peru: CANAL N
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14597
+#EXTINF:-1 tvg-id="Canal Capital TV (Perú)" tvg-name="Peru: CAPITAL TV" tvg-logo="https://archive.is/NilUN/e37d46401d62e7d9b19639b61aae5a6b20e87202.png" group-title="Peru",Peru: CAPITAL TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6590
+#EXTINF:-1 tvg-id="" tvg-name="Peru: GOL PERU FHD" tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="Peru",Peru: GOL PERU FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7596
+#EXTINF:-1 tvg-id="" tvg-name="Peru: GOL PERU HD" tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="Peru",Peru: GOL PERU HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6447
+#EXTINF:-1 tvg-id="PE - Latina" tvg-name="Peru: LATINA TV" tvg-logo="http://television-planet.tv/uploads/posts/2019-07/1563282486_8d1takj-_400x400.png" group-title="Peru",Peru: LATINA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8322
+#EXTINF:-1 tvg-id="" tvg-name="Peru: MOVISTAR DEPORTES" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Peru",Peru: MOVISTAR DEPORTES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6962
+#EXTINF:-1 tvg-id="PE - Panamericana TV" tvg-name="Peru: PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/1200px-Panamericana_Televisi%C3%B3n.svg.png" group-title="Peru",Peru: PANAMERICANA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8323
+#EXTINF:-1 tvg-id="PE - Panamericana TV" tvg-name="Peru: PANAMERICANA opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/1200px-Panamericana_Televisi%C3%B3n.svg.png" group-title="Peru",Peru: PANAMERICANA opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6830
+#EXTINF:-1 tvg-id="Canal Perú Mágico" tvg-name="Peru: PERU MAGICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="Peru",Peru: PERU MAGICO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6831
+#EXTINF:-1 tvg-id="PE - TV Perú" tvg-name="Peru: TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="Peru",Peru: TV PERU
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6833
+#EXTINF:-1 tvg-id="" tvg-name="Puerto-Rico: CDM Internacional" tvg-logo="" group-title="Puerto Rico",Puerto-Rico: CDM Internacional
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7605
+#EXTINF:-1 tvg-id="" tvg-name="Puerto-Rico: CTNI" tvg-logo="http://photocall.tv/images/ctni.png" group-title="Puerto Rico",Puerto-Rico: CTNI
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8363
+#EXTINF:-1 tvg-id="" tvg-name="Puerto-Rico: MEGA TV" tvg-logo="" group-title="Puerto Rico",Puerto-Rico: MEGA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9671
+#EXTINF:-1 tvg-id="" tvg-name="Puerto-Rico: WAPA" tvg-logo="" group-title="Puerto Rico",Puerto-Rico: WAPA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8394
+#EXTINF:-1 tvg-id="" tvg-name="Puerto-Rico: WAPA 2" tvg-logo="" group-title="Puerto Rico",Puerto-Rico: WAPA 2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9670
+#EXTINF:-1 tvg-id="" tvg-name="Puerto-Rico: WIPR" tvg-logo="" group-title="Puerto Rico",Puerto-Rico: WIPR
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8362
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: CBN" tvg-logo="" group-title="Religiosos",Religioso: CBN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37117
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: CDM" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pr-cdm-internaciona-9765.jpg" group-title="Religiosos",Religioso: CDM
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37120
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: CTNI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png" group-title="Religiosos",Religioso: CTNI
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37115
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: ENLACE" tvg-logo="https://img.new.livestream.com/events/00000000001c10e4/9dc728f5-9190-4bb4-bad6-a91907c71bb5_170x255.jpg" group-title="Religiosos",Religioso: ENLACE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37114
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: ENLACE JUVENIL" tvg-logo="" group-title="Religiosos",Religioso: ENLACE JUVENIL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37118
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: ESPERANZA TV" tvg-logo="https://televisionadventista.org/images/canal-esperanzatv.png" group-title="Religiosos",Religioso: ESPERANZA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37116
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos",Religioso: EWTN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37119
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: SOLIDARIA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/28/logo_thumb.jpg" group-title="Religiosos",Religioso: SOLIDARIA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37121
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: TELEAMIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Canal_TeleAmiga_logo.svg/1200px-Canal_TeleAmiga_logo.svg.png" group-title="Religiosos",Religioso: TELEAMIGA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37122
+#EXTINF:-1 tvg-id="" tvg-name="Religioso: TELEBENDICION" tvg-logo="https://i.ytimg.com/vi/jGY3zK3ZPFc/maxresdefault.jpg" group-title="Religiosos",Religioso: TELEBENDICION
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37123
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicaca: CERTV" tvg-logo="" group-title="Republica Dominicana",Republica Dominicaca: CERTV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30724
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: ACENTO TV" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: ACENTO TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30719
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: ANTENA 21" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: ANTENA 21
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30715
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: CANAL 25" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: CANAL 25
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30720
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: CANAL DEL SOL" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: CANAL DEL SOL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30721
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: CANAL DIGITAL 15" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: CANAL DIGITAL 15
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30722
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: CDN DEPORTES" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: CDN DEPORTES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30723
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: CINEVISION" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: CINEVISION
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30725
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: CORAL 39" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: CORAL 39
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30717
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: MICROVISION" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: MICROVISION
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30733
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: READY TV" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: READY TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30716
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: SUPER TV 55" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: SUPER TV 55
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30728
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TELEANTILLAS" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TELEANTILLAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30729
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TELECENTRO" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TELECENTRO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30726
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TELEFUTURO" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TELEFUTURO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30730
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TELEIMPACTO" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TELEIMPACTO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30731
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TELEMICRO" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TELEMICRO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30727
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TELERADIO AMERICA" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TELERADIO AMERICA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30732
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana: TRA" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana: TRA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30734
+#EXTINF:-1 tvg-id="" tvg-name="Republica Dominicana; TELESISTEMA" tvg-logo="" group-title="Republica Dominicana",Republica Dominicana; TELESISTEMA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30718
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="Deportes: TYC SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes",Deportes: TYC SPORTS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24694
+#EXTINF:-1 tvg-id="A + V" tvg-name="Uruguay: A+V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LogoA%2BVUruguay20102017.png" group-title="Uruguay",Uruguay: A+V
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15516
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Uruguay: Canal 10 HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="Uruguay",Uruguay: Canal 10 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7867
+#EXTINF:-1 tvg-id="La Tele HD" tvg-name="Uruguay: CANAL 12 HD" tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" group-title="Uruguay",Uruguay: CANAL 12 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6420
+#EXTINF:-1 tvg-id="Canal 4 HD" tvg-name="Uruguay: CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Canal4Uruguay.png" group-title="Uruguay",Uruguay: CANAL 4
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6421
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay: CANAL M" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="Uruguay",Uruguay: CANAL M
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6595
+#EXTINF:-1 tvg-id="VTV + HD" tvg-name="Uruguay: VTV OPC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="Uruguay",Uruguay: VTV OPC HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7828
+#EXTINF:-1 tvg-id="VTV + HD" tvg-name="Uruguay: VTV PLUS S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png" group-title="Uruguay",Uruguay: VTV PLUS S
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/13264
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC MIAMI" tvg-logo="" group-title="USA",USA: ABC MIAMI
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14942
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC NEW YORK" tvg-logo="" group-title="USA",USA: ABC NEW YORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14937
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC SAN DIEGO" tvg-logo="" group-title="USA",USA: ABC SAN DIEGO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14941
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC" tvg-logo="" group-title="USA",USA: AMC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14946
+#EXTINF:-1 tvg-id="" tvg-name="USA: ANIMAL PLANET" tvg-logo="" group-title="USA",USA: ANIMAL PLANET
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14931
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS NEW YORK" tvg-logo="" group-title="USA",USA: CBS NEW YORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14895
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS SAN DIEGO" tvg-logo="" group-title="USA",USA: CBS SAN DIEGO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14897
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX EAST" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="USA",USA: CINEMAX EAST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14949
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNER JR PACIFIC" tvg-logo="" group-title="USA",USA: DISNER JR PACIFIC
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14879
+#EXTINF:-1 tvg-id="" tvg-name="USA: E!" tvg-logo="" group-title="USA",USA: E!
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14882
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK" tvg-logo="" group-title="USA",USA: FOOD NETWORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14884
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX NEW YORK" tvg-logo="" group-title="USA",USA: FOX NEW YORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14904
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORT CAROLINAS" tvg-logo="" group-title="USA",USA: FOX SPORT CAROLINAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14960
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS DETROIT" tvg-logo="" group-title="USA",USA: FOX SPORTS DETROIT
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14955
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS WEST" tvg-logo="" group-title="USA",USA: FOX SPORTS WEST
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14963
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOXS PORTS DIEGO" tvg-logo="" group-title="USA",USA: FOXS PORTS DIEGO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14965
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOXS PORTS North" tvg-logo="" group-title="USA",USA: FOXS PORTS North
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14956
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO" tvg-logo="" group-title="USA",USA: HBO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14889
+#EXTINF:-1 tvg-id="" tvg-name="USA: SYFY" tvg-logo="https://e7.pngegg.com/pngimages/982/954/png-clipart-sci-fi-channel-logo-television-show-syfy-universal-television-angle.png" group-title="USA",USA: SYFY
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14951
+#EXTINF:-1 tvg-id="" tvg-name="Usa: UNIVISION MIAMI" tvg-logo="" group-title="Cultura y Entretenimiento",Usa: UNIVISION MIAMI
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/26147
+#EXTINF:-1 tvg-id="" tvg-name="Zee Mundo HD" tvg-logo="" group-title="Cine",Zee Mundo HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/17338
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: ESPN 1 ARG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Deportes",Deportes: ESPN 1 ARG HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/58307
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: ESPN 3 ARG SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",Deportes: ESPN 3 ARG SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/58308
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ALF" tvg-logo="https://www.slashfilm.com/wp/wp-content/images/alf-reboot-dead.jpg" group-title="24/7",24/7: ALF
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15240
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nick-dev/images/series/spongebob-squarepants/sb-original/grails/480x270.png?height=0&width=480&matte=true&crop=false" group-title="24/7",24/7 BOB ESPONJA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15239
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="https://www.infobae.com/new-resizer/TNdad7AGnBRWUF4cH1_Jv7n3kE4/750x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/06/20144634/chavo1.jpg" group-title="24/7",24/7 EL CHAVO DEL 8
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15237
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MAZINGER Z" tvg-logo="https://vignette.wikia.nocookie.net/mazingerz/images/e/e9/GreatMazingerTVMecha.png/revision/latest?cb=20190418215214&path-prefix=es" group-title="24/7",24/7: MAZINGER Z
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30662
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  SMALLVILLE" tvg-logo="https://www.formulatv.com/images/series/posters/000/38/1_m1.jpg" group-title="24/7",24/7:  SMALLVILLE
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30653
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  TERROR" tvg-logo="https://www.atrapalo.com/houdinis/wp-content/uploads/2018/10/peliculas-de-terror-portada-1.jpg" group-title="24/7",24/7:  TERROR
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30658
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CABALLEROS DEL ZODIACO" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20150312132515_420.jpg" group-title="24/7",24/7: CABALLEROS DEL ZODIACO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30671
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHAPULIN COLORADO" tvg-logo="http://axn.cableplay.net:25461/images/rEJlpz7OX2pABF3n29XFZyDuIkFLfjrD.jpg" group-title="24/7",24/7: CHAPULIN COLORADO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15233
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DESAFIO SOBRE FUEGO LATINOAMERICA" tvg-logo="https://static.historyplay.tv/files/dynamicpages_images/con-thc-desafiosobrefuegolatams2-valla-grupal-lat950.jpg" group-title="24/7",24/7: DESAFIO SOBRE FUEGO LATINOAMERICA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30673
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL" tvg-logo="http://axn.cableplay.net:25461/images/dDQiHfCgNlYFZi9OIPbIBhHQlRLwErkF.jpg" group-title="24/7",24/7: DRAGON BALL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15626
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL CHEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/El_Chema_poster.jpg" group-title="24/7",24/7: EL CHEMA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30667
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL SEÑOR DE LOS CIELOS" tvg-logo="https://vidamoderna.com/wp-content/uploads/2019/10/MATIAS-NOVOA_01-683x1024.jpg" group-title="24/7",24/7: EL SEÑOR DE LOS CIELOS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30668
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HE MAN" tvg-logo="https://i.pinimg.com/originals/f7/95/a8/f795a8f0e6ea00902c47396e6e8e10f6.jpg" group-title="24/7",24/7: HE MAN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30669
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LA CASA DE PAPEL" tvg-logo="https://i.pinimg.com/564x/a5/65/f5/a565f5750dd9064443c7bcbd99219ac4.jpg" group-title="24/7",24/7: LA CASA DE PAPEL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30672
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSONS" tvg-logo="https://telefe.com/media/18074521/poster_los_simpson.jpg" group-title="24/7",24/7: LOS SIMPSONS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15232
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LUIS MIGUEL" tvg-logo="https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/XAYLZFA5HBGH3PCJZ5QRE4FALM.jpg" group-title="24/7",24/7: LUIS MIGUEL
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30670
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MALCOM" tvg-logo="http://axn.cableplay.net:25461/images/2GtioSZA8BMF4gssJp7UO0jF8yh8lzKU.jpg" group-title="24/7",24/7: MALCOM
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15619
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NARUTO" tvg-logo="https://i.pinimg.com/736x/2a/df/fb/2adffbee6e939b2bd1e32ffa8c763308.jpg" group-title="24/7",24/7: NARUTO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30663
+#EXTINF:-1 tvg-id="" tvg-name="24/7: POKEMON" tvg-logo="https://elcomercio.pe/resizer/nx0w4RaACHl6QpvPU4mgq6W1KyA=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/66AM3SSB3ZGSJNU2TQAVJNHIWE.jpg" group-title="24/7",24/7: POKEMON
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30664
+#EXTINF:-1 tvg-id="" tvg-name="24/7: POWER RANGERS" tvg-logo="https://www.elheraldo.co/sites/default/files/styles/width_860/public/articulo/2013/08/28/122476-the-rangers-630x320.jpg?itok=0d7qSjCs" group-title="24/7",24/7: POWER RANGERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15644
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROBOTECH" tvg-logo="https://i.pinimg.com/originals/f3/c1/a6/f3c1a6a0d494a3644a0607df024f041a.png" group-title="24/7",24/7: ROBOTECH
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30665
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SAILOR MON" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._AC_SL1500_.jpg" group-title="24/7",24/7: SAILOR MON
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30666
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SOUTH PARK" tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/24/12/46/257044.jpg" group-title="24/7",24/7: SOUTH PARK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30654
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SPIDERMAN" tvg-logo="https://static.vix.com/es/sites/default/files/styles/large/public/btg/spiderman-john-romita-draw.jpg" group-title="24/7",24/7: SPIDERMAN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30655
+#EXTINF:-1 tvg-id="" tvg-name="24/7: STRANGERTINGS" tvg-logo="https://www.formulatv.com/images/series/posters/1300/1334/1_m3.jpg" group-title="24/7",24/7: STRANGERTINGS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30656
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SUPER CAMPEONES" tvg-logo="https://vignette.wikia.nocookie.net/wikiseriesjaponesas/images/6/6f/Dvd-los-supercampeones-serie-animada-super-campeones-oliver-17097-MLC20132238145_072014-F.jpg/revision/latest/scale-to-width-down/340?cb=20160710181041&path-prefix=es" group-title="24/7",24/7: SUPER CAMPEONES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30657
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE WALKING DEAD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/512CLp4b5xL._SY445_.jpg" group-title="24/7",24/7: THE WALKING DEAD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30660
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THUNDERCATS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81WBKhvawKL._SY445_.jpg" group-title="24/7",24/7: THUNDERCATS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30659
+#EXTINF:-1 tvg-id="" tvg-name="24/7: X MEN" tvg-logo="https://1.bp.blogspot.com/-pzbR8ClPrms/XXEHab5VZqI/AAAAAAAA2mo/_egySvlwab4FRTgi73Lh9G8yu0PkY4JqQCLcBGAs/s1600/XMen%2Bla%2Bserie.jpg" group-title="24/7",24/7: X MEN
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/30661
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="Argentina: EL NUEVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina",Argentina: EL NUEVE 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37217
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: RED UNO HD" tvg-logo="" group-title="Bolivia",Bolivia: RED UNO HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24477
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: UNITEL HD" tvg-logo="" group-title="Bolivia",Bolivia: UNITEL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24478
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: UNITEL SD" tvg-logo="" group-title="Bolivia",Bolivia: UNITEL SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24479
+#EXTINF:-1 tvg-id="" tvg-name="Cine: A&E FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="Cine",Cine: A&E FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14531
+#EXTINF:-1 tvg-id="" tvg-name="Cine: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1000px-Amc_logo.svg.png" group-title="Cine",Cine: AMC FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/17550
+#EXTINF:-1 tvg-id="" tvg-name="Cine: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1000px-Amc_logo.svg.png" group-title="Cine",Cine: AMC HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14528
+#EXTINF:-1 tvg-id="" tvg-name="Cine: AXN FHD" tvg-logo="http://images.mi.tv/channels/cl_axn_m.png" group-title="Cine",Cine: AXN FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23259
+#EXTINF:-1 tvg-id="" tvg-name="Cine: AXN HD" tvg-logo="http://images.mi.tv/channels/cl_axn_m.png" group-title="Cine",Cine: AXN HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8027
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINECANAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Cine",Cine: CINECANAL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23260
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Cine",Cine: CINECANAL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9141
+#EXTINF:-1 tvg-id="" tvg-name="Cine: CINEMAX HD" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Cine",Cine: CINEMAX HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9140
+#EXTINF:-1 tvg-id="MX - FOX" tvg-name="Cine: STAR CHANNEL FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/340?cb=20210224135934&path-prefix=es" group-title="Cine",Cine: STAR CHANNEL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23263
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR LIFE FHD" tvg-logo="https://multipress.com.mx/wp-content/uploads/2021/02/original_1613996463_STAR-LIFE-LOGO-.jpg" group-title="Cine",Cine: STAR LIFE FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14532
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Cine",Cine: STAR ACTION FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6820
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR ACTION FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Cine",Cine: STAR ACTION FHD 1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23262
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR CINEMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="Cine",Cine: STAR CINEMA FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14537
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR COMEDY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png" group-title="Cine",Cine: STAR COMEDY FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14534
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/250px-Star_Fun_2020.svg.png" group-title="Cine",Cine: STAR FUN FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23265
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR HITS FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/250px-Star_Hits_2020.svg.png" group-title="Cine",Cine: STAR HITS FHD 1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23266
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STAR SERIES FHD" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2021/02/STAR-Channel-logo-2021.jpg" group-title="Cine",Cine: STAR SERIES FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14536
+#EXTINF:-1 tvg-id="" tvg-name="Cine: FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Cine",Cine: FX HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8030
+#EXTINF:-1 tvg-id="" tvg-name="Cine: FXM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="Cine",Cine: FXM FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8031
+#EXTINF:-1 tvg-id="" tvg-name="Cine: FXM SD" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="Cine",Cine: FXM SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23280
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Golden PLUS FHD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a2417c8b455b_GoldenPlus(Negro).png.9534b5113b089f65d6e76b2dd7645820.png" group-title="Cine",Cine: Golden PLUS FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23267
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="Cine: HBO 1 FHD (Mx)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="Cine",Cine: HBO 1 FHD (Mx)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14527
+#EXTINF:-1 tvg-id="CO - HBO 2 HD" tvg-name="Cine: HBO 2 FHD (Co)" tvg-logo="https://4.bp.blogspot.com/-KGydUGkmuTk/XOX5yqOg5aI/AAAAAAAAA2k/q9palsgleuAeyHNbpN7EWwyQI9kzehaAwCEwYBhgL/s200/HBO2.png" group-title="Cine",Cine: HBO 2 FHD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23268
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="Cine: HBO 2 HD (Mx)" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png" group-title="Cine",Cine: HBO 2 HD (Mx)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9045
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="Cine: HBO FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine",Cine: HBO FAMILY FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9048
+#EXTINF:-1 tvg-id="MX - HBO Plus México" tvg-name="Cine: HBO Plus FHD (Co)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine",Cine: HBO Plus FHD (Co)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23270
+#EXTINF:-1 tvg-id="" tvg-name="Cine: PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="Cine",Cine: PARAMOUNT CHANNEL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23273
+#EXTINF:-1 tvg-id="" tvg-name="Cine: PARAMOUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="Cine",Cine: PARAMOUNT FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/9119
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SONY FULL HD" tvg-logo="https://pngimg.com/uploads/sony_logo/sony_logo_PNG2.png" group-title="Cine",Cine: SONY FULL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8006
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SPACE FHD" tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" group-title="Cine",Cine: SPACE FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23274
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SPACE HD" tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" group-title="Cine",Cine: SPACE HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8005
+#EXTINF:-1 tvg-id="" tvg-name="Cine: STUDIO UNIVERSAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Cine",Cine: STUDIO UNIVERSAL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14542
+#EXTINF:-1 tvg-id="" tvg-name="Cine: SYFY FHD" tvg-logo="https://e7.pngegg.com/pngimages/982/954/png-clipart-sci-fi-channel-logo-television-show-syfy-universal-television-angle.png" group-title="Cine",Cine: SYFY FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14543
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Cine",Cine: TBS HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23276
+#EXTINF:-1 tvg-id="" tvg-name="Cine: WARNER CHANNEL FHD" tvg-logo="https://www.kindpng.com/picc/m/171-1712329_warner-channel-tv-hd-png-download.png" group-title="Cine",Cine: WARNER CHANNEL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7994
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: GANA DEPORTES PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="Colombia",Colombia: GANA DEPORTES PLUS FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23751
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Win Sports Plus Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="Colombia",Colombia: Win Sports Plus Hd
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23750
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Cul-Ent: DISCOVERY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY CHANNEL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8025
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="Cul-Ent: DISCOVERY HOME & HEALTH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1024px-H%26h_Logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY HOME & HEALTH FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8896
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="Cul-Ent: DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY THEATER FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8001
+#EXTINF:-1 tvg-id="CO - TLC" tvg-name="Cul-Ent: DISCOVERY TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY TLC FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14529
+#EXTINF:-1 tvg-id="Canal Discovery Turbo (Latinoamérica)" tvg-name="Cul-Ent: DISCOVERY TURBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY TURBO FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14530
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="Cul-Ent: DISCOVERY WORLD FHD" tvg-logo="http://www.tvlitoranea.com.br/canais/documentarios/discoveryworld.png" group-title="Cultura y Entretenimiento",Cul-Ent: DISCOVERY WORLD FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7993
+#EXTINF:-1 tvg-id="Canal Film & Arts" tvg-name="Cul-Ent: Film & Arts " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="Cultura y Entretenimiento",Cul-Ent: Film & Arts 
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/23261
+#EXTINF:-1 tvg-id="CO - History HD" tvg-name="Cul-Ent: HISTORY CHANNEL FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Cultura y Entretenimiento",Cul-Ent: HISTORY CHANNEL FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7999
+#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Cul-Ent: INVESTIGATION DISCOVERY FHD" tvg-logo="https://i0.wp.com/i.imgur.com/uPvJzrz.png" group-title="Cultura y Entretenimiento",Cul-Ent: INVESTIGATION DISCOVERY FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7998
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="Cul-Ent: NATGEO FHD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Cultura y Entretenimiento",Cul-Ent: NATGEO FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6456
+#EXTINF:-1 tvg-id="CO - Nat Geo Wild HD" tvg-name="Cul-Ent: NATGEO WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="Cultura y Entretenimiento",Cul-Ent: NATGEO WILD FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8041
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: TUDN XTRA" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="Deportes",Deportes: TUDN XTRA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15556
+#EXTINF:-1 tvg-id="" tvg-name="Espana: A3SERIES FULL HD" tvg-logo="https://imediagala.files.wordpress.com/2015/12/a3series.jpg" group-title="España",Espana: A3SERIES FULL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7639
+#EXTINF:-1 tvg-id="" tvg-name="Honduras: TIGO SPORTS (solo eventos)" tvg-logo="" group-title="Honduras:",Honduras: TIGO SPORTS (solo eventos)
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15511
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: AFIZZIONADOS HD Mx" tvg-logo="https://2.bp.blogspot.com/-DMDRwMyhoPQ/W1ezVNghVxI/AAAAAAAABOY/bN08j1VFijQL4pUuVvtMIxQi_WBlSqxFACLcBGAs/s1600/AFIZZIONADOS-201x200-879593817.png" group-title="Deportes",Deportes: AFIZZIONADOS HD Mx
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7912
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Mexico: AZTECA 7 FULL HD" tvg-logo="http://images.mi.tv/channels/mx_azteca-7_m.png" group-title="Mexico",Mexico: AZTECA 7 FULL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8056
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="México: AZTECA CINEMA FULL HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="Mexico",México: AZTECA CINEMA FULL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8059
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Uruguay: Canal 10 SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="Uruguay",Uruguay: Canal 10 SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/16412
+#EXTINF:-1 tvg-id="La Tele HD" tvg-name="Uruguay: CANAL 12 SD" tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" group-title="Uruguay",Uruguay: CANAL 12 SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/16411
+#EXTINF:-1 tvg-id="Canal 4 HD" tvg-name="Uruguay: CANAL 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Canal4Uruguay.png" group-title="Uruguay",Uruguay: CANAL 4 FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/16410
+#EXTINF:-1 tvg-id="VTV + HD" tvg-name="Uruguay: VTV PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png" group-title="Uruguay",Uruguay: VTV PLUS SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/16409
+#EXTINF:-1 tvg-id="VTV HD" tvg-name="Uruguay: VTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="Uruguay",Uruguay: VTV SD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/16408
+#EXTINF:-1 tvg-id="VTV HD" tvg-name="Uruguay: VTV@ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="Uruguay",Uruguay: VTV@ HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/16700
+#EXTINF:-1 tvg-id="" tvg-name="Usa: NBC UNIVERS0" tvg-logo="" group-title="USA",Usa: NBC UNIVERS0
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/15610
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: WWE NETWORK" tvg-logo="https://i.pinimg.com/originals/ee/b1/87/eeb18751baf5b63a9e9a1ab63ca13052.png" group-title="Deportes",Deportes: WWE NETWORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/24517
+#EXTINF:-1 tvg-id="HN - Todo Deportes" tvg-name="Honduras: Todo Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/hn_todo-deportes-tdtv_m.png" group-title="Honduras:",Honduras: Todo Deportes
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/12558
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: BEIN SPORTS LA LIGA" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="Deportes",Deportes: BEIN SPORTS LA LIGA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/6892
+#EXTINF:-1 tvg-id="Canal beIN Sport en Español" tvg-name="Deportes: BEIN SPORTS N HD opc2" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="Deportes",Deportes: BEIN SPORTS N HD opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7651
+#EXTINF:-1 tvg-id="Canal beIN Sport en Español" tvg-name="Deportes: BEIN SPORTS N HD opc1" tvg-logo="blob:https://web.whatsapp.com/5d6c7006-121e-4ad3-8009-ca14a5ad5eaf" group-title="Deportes",Deportes: BEIN SPORTS N HD opc1
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8065
+#EXTINF:-1 tvg-id="" tvg-name="Deportes. MLB NETWORK" tvg-logo="http://1000logos.net/wp-content/uploads/2017/04/MLB-Logo.png" group-title="Deportes",Deportes. MLB NETWORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7042
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB NETWORK" tvg-logo="" group-title="USA",USA: MLB NETWORK
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14934
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: NBA TV" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3jGKgeOxkHEd05CMk8hb6btd_vPalpJjmoMw=s900-mo-c-c0xffffffff-rj-k-no" group-title="Deportes",Deportes: NBA TV
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7088
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: PAT TV LA PAZ" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/pattv.png?resize=218%2C150" group-title="Bolivia",Bolivia: PAT TV LA PAZ
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/8415
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: TIGO SPORTS 1 HD" tvg-logo="" group-title="Bolivia",Bolivia: TIGO SPORTS 1 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14461
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia: TIGO SPORTS 2 HD" tvg-logo="" group-title="Bolivia",Bolivia: TIGO SPORTS 2 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/14462
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FUTURAMA" tvg-logo="https://3.bp.blogspot.com/_FTLqnXd_TyA/Sw5qcvsQfDI/AAAAAAAAABQ/iUgKLlsOhCc/s1600/futurama.jpg" group-title="24/7",24/7: FUTURAMA
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54434
+#EXTINF:-1 tvg-id="" tvg-name="ECDF FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="Ecuador",ECDF FHD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/55983
+#EXTINF:-1 tvg-id="" tvg-name="ECDF HD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="Ecuador",ECDF HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/55982
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: PPV 3" tvg-logo="https://st3.depositphotos.com/1029760/18072/v/1600/depositphotos_180728212-stock-illustration-colorful-dynamic-sport-logo-icon.jpg" group-title="Eventos",DEPORTES: PPV 3
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/56347
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: PPV4" tvg-logo="https://st3.depositphotos.com/1029760/18072/v/1600/depositphotos_180728212-stock-illustration-colorful-dynamic-sport-logo-icon" group-title="Eventos",Deportes: PPV4
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/57986
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: PPV 1 HD" tvg-logo="https://st3.depositphotos.com/1029760/18072/v/1600/depositphotos_180728212-stock-illustration-colorful-dynamic-sport-logo-icon.jpg" group-title="Eventos",DEPORTES: PPV 1 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7834
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: PPV 2 HD" tvg-logo="https://st3.depositphotos.com/1029760/18072/v/1600/depositphotos_180728212-stock-illustration-colorful-dynamic-sport-logo-icon.jpg" group-title="Eventos",DEPORTES: PPV 2 HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/7835
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: PPV 5" tvg-logo="https://st3.depositphotos.com/1029760/18072/v/1600/depositphotos_180728212-stock-illustration-colorful-dynamic-sport-logo-icon.jpg" group-title="Eventos",Deportes: PPV 5
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/57999
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="" group-title="NFL (solo eventos)",NFL Network
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54095
+#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone" tvg-logo="" group-title="NFL (solo eventos)",NFL RedZone
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54096
+#EXTINF:-1 tvg-id="" tvg-name="NFL SEATTLE-SEAHAWKS" tvg-logo="" group-title="NFL (solo eventos)",NFL SEATTLE-SEAHAWKS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54097
+#EXTINF:-1 tvg-id="" tvg-name="NFL JACKSONVILLE-JAGUARS" tvg-logo="" group-title="NFL (solo eventos)",NFL JACKSONVILLE-JAGUARS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54098
+#EXTINF:-1 tvg-id="" tvg-name="NFL CAROLINA-PANTHERS" tvg-logo="" group-title="NFL (solo eventos)",NFL CAROLINA-PANTHERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54099
+#EXTINF:-1 tvg-id="" tvg-name="NFL WASHINGTON-REDSKINS" tvg-logo="" group-title="NFL (solo eventos)",NFL WASHINGTON-REDSKINS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54100
+#EXTINF:-1 tvg-id="" tvg-name="NFL TENNESSEE-TITANS" tvg-logo="" group-title="NFL (solo eventos)",NFL TENNESSEE-TITANS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54101
+#EXTINF:-1 tvg-id="" tvg-name="NFL TAMPA-BAY-BUCCANEERS" tvg-logo="" group-title="NFL (solo eventos)",NFL TAMPA-BAY-BUCCANEERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54102
+#EXTINF:-1 tvg-id="" tvg-name="NFL PITISBURGH-STEELERS" tvg-logo="" group-title="NFL (solo eventos)",NFL PITISBURGH-STEELERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54103
+#EXTINF:-1 tvg-id="" tvg-name="NFL PHILADELPHIA-EAGLES" tvg-logo="" group-title="NFL (solo eventos)",NFL PHILADELPHIA-EAGLES
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54104
+#EXTINF:-1 tvg-id="" tvg-name="NFL OAKLAND-RAIDERS" tvg-logo="" group-title="NFL (solo eventos)",NFL OAKLAND-RAIDERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54105
+#EXTINF:-1 tvg-id="" tvg-name="NFL NEWYORK-JETS" tvg-logo="" group-title="NFL (solo eventos)",NFL NEWYORK-JETS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54106
+#EXTINF:-1 tvg-id="" tvg-name="NFL NEWYORK-GIANTS" tvg-logo="" group-title="NFL (solo eventos)",NFL NEWYORK-GIANTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54107
+#EXTINF:-1 tvg-id="" tvg-name="NFL NEWORLEANS-SAINTS" tvg-logo="" group-title="NFL (solo eventos)",NFL NEWORLEANS-SAINTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54108
+#EXTINF:-1 tvg-id="" tvg-name="NFL NEWENGLAND-PATRIOTS" tvg-logo="" group-title="NFL (solo eventos)",NFL NEWENGLAND-PATRIOTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54109
+#EXTINF:-1 tvg-id="" tvg-name="NFL MINNESOTA-VIKINGS" tvg-logo="" group-title="NFL (solo eventos)",NFL MINNESOTA-VIKINGS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54110
+#EXTINF:-1 tvg-id="" tvg-name="NFL MIAMI-DOLPHINS" tvg-logo="" group-title="NFL (solo eventos)",NFL MIAMI-DOLPHINS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54111
+#EXTINF:-1 tvg-id="" tvg-name="NFL LOSANGELES-RAMS" tvg-logo="" group-title="NFL (solo eventos)",NFL LOSANGELES-RAMS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54112
+#EXTINF:-1 tvg-id="" tvg-name="NFL LOS ANGELES-CHARGERS" tvg-logo="" group-title="NFL (solo eventos)",NFL LOS ANGELES-CHARGERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54113
+#EXTINF:-1 tvg-id="" tvg-name="NFL KANSASCITY-CHIEFS" tvg-logo="" group-title="NFL (solo eventos)",NFL KANSASCITY-CHIEFS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54114
+#EXTINF:-1 tvg-id="" tvg-name="NFL INDIANAPOLIS-COLTS" tvg-logo="" group-title="NFL (solo eventos)",NFL INDIANAPOLIS-COLTS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54115
+#EXTINF:-1 tvg-id="" tvg-name="NFL HOUSTON-TEXANS" tvg-logo="" group-title="NFL (solo eventos)",NFL HOUSTON-TEXANS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54116
+#EXTINF:-1 tvg-id="" tvg-name="NFL GREENBAY-PACKERS" tvg-logo="" group-title="NFL (solo eventos)",NFL GREENBAY-PACKERS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54117
+#EXTINF:-1 tvg-id="" tvg-name="NFL DETROIT-LIONS" tvg-logo="" group-title="NFL (solo eventos)",NFL DETROIT-LIONS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54118
+#EXTINF:-1 tvg-id="" tvg-name="NFL DENVER-BRONCOS" tvg-logo="" group-title="NFL (solo eventos)",NFL DENVER-BRONCOS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54119
+#EXTINF:-1 tvg-id="" tvg-name="NFL DALLAS-COWBOYS" tvg-logo="" group-title="NFL (solo eventos)",NFL DALLAS-COWBOYS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54120
+#EXTINF:-1 tvg-id="" tvg-name="NFL CLEVELAND-BROWNS" tvg-logo="" group-title="NFL (solo eventos)",NFL CLEVELAND-BROWNS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54121
+#EXTINF:-1 tvg-id="" tvg-name="NFL CINCINNATI-BENGALS" tvg-logo="" group-title="NFL (solo eventos)",NFL CINCINNATI-BENGALS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54122
+#EXTINF:-1 tvg-id="" tvg-name="NFL CHICAGO-BEARS" tvg-logo="" group-title="NFL (solo eventos)",NFL CHICAGO-BEARS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54123
+#EXTINF:-1 tvg-id="" tvg-name="NFL BUFFALO-BILLS" tvg-logo="" group-title="NFL (solo eventos)",NFL BUFFALO-BILLS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54124
+#EXTINF:-1 tvg-id="" tvg-name="NFL BALTIMORE-RAVENS" tvg-logo="" group-title="NFL (solo eventos)",NFL BALTIMORE-RAVENS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54125
+#EXTINF:-1 tvg-id="" tvg-name="NFL ARIZONA-CARDINALS" tvg-logo="" group-title="NFL (solo eventos)",NFL ARIZONA-CARDINALS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54126
+#EXTINF:-1 tvg-id="" tvg-name="NFL  ATLANTA FALCONS" tvg-logo="" group-title="NFL (solo eventos)",NFL  ATLANTA FALCONS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54127
+#EXTINF:-1 tvg-id="" tvg-name="NFL SAN FRANCISCO 49ers" tvg-logo="" group-title="NFL (solo eventos)",NFL SAN FRANCISCO 49ers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54128
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Toronto Raptors" tvg-logo="" group-title="NBA (solo eventos)",NBA | Toronto Raptors
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54065
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Sacramento Kings" tvg-logo="" group-title="NBA (solo eventos)",NBA | Sacramento Kings
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54066
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Orlando Magic" tvg-logo="" group-title="NBA (solo eventos)",NBA | Orlando Magic
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54067
+#EXTINF:-1 tvg-id="" tvg-name="NBA | New York Knicks" tvg-logo="" group-title="NBA (solo eventos)",NBA | New York Knicks
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54068
+#EXTINF:-1 tvg-id="" tvg-name="NBA | New Orleans Pelicans" tvg-logo="" group-title="NBA (solo eventos)",NBA | New Orleans Pelicans
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54069
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Minnesota Timberwolves" tvg-logo="" group-title="NBA (solo eventos)",NBA | Minnesota Timberwolves
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54070
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Lakers" tvg-logo="" group-title="NBA (solo eventos)",NBA | Los Angeles Lakers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54071
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Clippers" tvg-logo="" group-title="NBA (solo eventos)",NBA | Los Angeles Clippers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54072
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Indiana Pacers" tvg-logo="" group-title="NBA (solo eventos)",NBA | Indiana Pacers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54073
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Houston Rockets" tvg-logo="" group-title="NBA (solo eventos)",NBA | Houston Rockets
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54074
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Golden State Warriors" tvg-logo="" group-title="NBA (solo eventos)",NBA | Golden State Warriors
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54075
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Denver Nuggets" tvg-logo="" group-title="NBA (solo eventos)",NBA | Denver Nuggets
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54076
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Dallas Mavericks" tvg-logo="" group-title="NBA (solo eventos)",NBA | Dallas Mavericks
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54077
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Cleveland Cavaliers" tvg-logo="" group-title="NBA (solo eventos)",NBA | Cleveland Cavaliers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54078
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Brooklyn Nets" tvg-logo="" group-title="NBA (solo eventos)",NBA | Brooklyn Nets
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54079
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Boston Celtics" tvg-logo="" group-title="NBA (solo eventos)",NBA | Boston Celtics
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54080
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Washington Wizards" tvg-logo="" group-title="NBA (solo eventos)",NBA | Washington Wizards
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54081
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Milwaukee Bucks" tvg-logo="" group-title="NBA (solo eventos)",NBA | Milwaukee Bucks
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54082
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Detroit Pistons" tvg-logo="" group-title="NBA (solo eventos)",NBA | Detroit Pistons
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54083
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Chicago Bulls" tvg-logo="" group-title="NBA (solo eventos)",NBA | Chicago Bulls
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54084
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Charlotte Hornets" tvg-logo="" group-title="NBA (solo eventos)",NBA | Charlotte Hornets
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54085
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Atlanta Hawks" tvg-logo="" group-title="NBA (solo eventos)",NBA | Atlanta Hawks
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54086
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Portland Trail Blazers" tvg-logo="" group-title="NBA (solo eventos)",NBA | Portland Trail Blazers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54087
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Phoenix Suns" tvg-logo="" group-title="NBA (solo eventos)",NBA | Phoenix Suns
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54088
+#EXTINF:-1 tvg-id="" tvg-name="NBA | SAN ANTONIO SPURS" tvg-logo="" group-title="NBA (solo eventos)",NBA | SAN ANTONIO SPURS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54089
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Utah Jazz" tvg-logo="" group-title="NBA (solo eventos)",NBA | Utah Jazz
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54090
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Philadelphia 76ers" tvg-logo="" group-title="NBA (solo eventos)",NBA | Philadelphia 76ers
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54091
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Oklahoma City Thunder" tvg-logo="" group-title="NBA (solo eventos)",NBA | Oklahoma City Thunder
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54092
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Miami Heat" tvg-logo="" group-title="NBA (solo eventos)",NBA | Miami Heat
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54093
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Memphis Grizzlies" tvg-logo="" group-title="NBA (solo eventos)",NBA | Memphis Grizzlies
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54094
+#EXTINF:-1 tvg-id="AR - El Trece" tvg-name="Argentina: EL TRECE INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",Argentina: EL TRECE INTERNACIONAL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37223
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TBS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Cine",Cine: TBS HQ
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37230
+#EXTINF:-1 tvg-id="TV AGRO" tvg-name="Colombia: TV AGRO" tvg-logo="https://pbs.twimg.com/profile_images/499602179754188800/qZeZ6Xqa.jpeg" group-title="Colombia",Colombia: TV AGRO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54505
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: MOVISTAR F1 Esp" tvg-logo="https://p.kindpng.com/picc/s/47-477972_movistar-deportes-1-logo-hd-png-download.png" group-title="Deportes",Deportes: MOVISTAR F1 Esp
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37131
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay: MAROÑAS" tvg-logo="https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png" group-title="Uruguay",Uruguay: MAROÑAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/57994
+#EXTINF:-1 tvg-id="TNU HD" tvg-name="Uruguay: TNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Televisi%C3%B3n_Nacional_Uruguay.png" group-title="Uruguay",Uruguay: TNU
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/57995
+#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="Deportes: FOX SPORTS PREMIUM opc2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="Deportes",Deportes: FOX SPORTS PREMIUM opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54507
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: TNT SPORTS opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportes",Deportes: TNT SPORTS opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54508
+
